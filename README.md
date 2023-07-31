@@ -2,11 +2,12 @@
 
 This is a **hub repo** for easily checking any of **my audits I can show so far**.
 
-In **each audit inform** you can find a summary of:
+In **each audit report** you can find a summary of:
 
-- **_What was the audited project about._** ℹ️
-- **_Rewards I earned from it._** 💸🧠
-- **_Lessons learned._** 🧑‍💻
+- _An overview of the audited project._ ℹ️
+- _The rewards I earned from the audit._ 💸🧠
+- _Key takeaways and lessons learned._ 👨‍💻
+- _The report itself._ 📝
 
 <hr/>
 
