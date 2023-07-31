@@ -2,7 +2,7 @@
 
 This is a **hub repo** for easily checking any of **my audits I can show so far**.
 
-In **each audit's report** you can find a summary of:
+In **each audit's report** you can find:
 
 - _An overview of the audited project._ ℹ️
 - _The rewards I earned from the audit._ 💸🧠
