@@ -12,6 +12,3 @@ I will publicly upload and complete this readme my findings once the competition
 
 # Lessons Learned 🧑‍💻
 
-- What CREATE2 is.
-- Security measures for contracts that deploy other contracts.
-- What SafeERC20 library fom OpenZeppelin handles.
