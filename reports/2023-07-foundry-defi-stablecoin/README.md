@@ -26,10 +26,10 @@ Competition details in 🦅CodeHawks🦅: [click here](https://www.codehawks.com
 
 Check the findings' reports I submitted (`ordered by vulnerability's risk level`):
 
-- [🔗 High1-TheSolvencyIllusion](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-escrow/High1-TheSolvencyIllusion-CarlosAlegreUr.md)
+- [🔗 High1-TheSolvencyIllusion](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/High1-TheSolvencyIllusion-CarlosAlegreUr.md)
 
-- [🔗 Low1-HealthFactorPrecision](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-escrow/Low1-HealthFactorPrecision-CarlosAlegreUr.md)
+- [🔗 Low1-HealthFactorPrecision](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/Low1-HealthFactorPrecision-CarlosAlegreUr.md)
 
-- [🔗 Gas1-ViaIrCompiling](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-escrow/Gas1-ViaIrCompiling-CarlosAlegreUr.md)
+- [🔗 Gas1-ViaIrCompiling](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/Gas1-ViaIrCompiling-CarlosAlegreUr.md)
 
-- [🔗 Informational1-GlobalVariable](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-escrow/Informational1-GlobalVariable-CarlosAlegreUr.md)
+- [🔗 Informational1-GlobalVariable](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/Informational1-GlobalVariable-CarlosAlegreUr.md)
