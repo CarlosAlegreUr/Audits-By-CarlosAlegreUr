@@ -10,7 +10,7 @@ _`This project is meant to enable smart contract auditors (sellers) and smart co
 
 ---
 
-Competition details in 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)
+Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)
 
 # Rewards Earned 💸🧠
 
@@ -28,4 +28,6 @@ Competition details in 🦅CodeHawks🦅: [click here](https://www.codehawks.com
 
 Check the findings' reports I submitted:
 
-- [Gas1-LeverageVariable](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-escrow/Gas1-LeverageVariable-CarlosAlegreUr.md)
+#### Gas optimization
+
+- [🔗 Gas1-LeverageVariable](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-escrow/Gas1-LeverageVariable-CarlosAlegreUr.md)
