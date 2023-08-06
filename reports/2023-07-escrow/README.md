@@ -1,6 +1,6 @@
 # Project ℹ️
 
-This project is made by the **`Cyfrin`** team. It audit was part of an audit competition launched in CodeHawks.
+This project is made by the **`Cyfrin`** team. Its audit was part of an audit competition at CodeHawks.
 
 According to the developers:
 
@@ -20,6 +20,7 @@ Competition details in 🦅CodeHawks🦅: [click here](https://www.codehawks.com
 - What CREATE2 is.
 - Security measures for contracts that deploy other contracts.
 - What SafeERC20 library fom OpenZeppelin handles.
+- via_ir compiler.
 
 # _The reports_ 📝
 
