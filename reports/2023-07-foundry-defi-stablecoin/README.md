@@ -4,9 +4,11 @@ This project is made by the **`Cyfrin`** team. Its audit was part of an audit co
 
 According to the developers:
 
-```
-This project is meant to be a stablecoin where users can deposit WETH and WBTC in exchange for a token that will be pegged to the USD. The system is meant to be such that someone could fork this codebase, swap out WETH & WBTC for any basket of assets they like, and the code would work the same.
-```
+---
+
+_`This project is meant to be a stablecoin where users can deposit WETH and WBTC in exchange for a token that will be pegged to the USD. The system is meant to be such that someone could fork this codebase, swap out WETH & WBTC for any basket of assets they like, and the code would work the same.`_
+
+---
 
 Competition details in 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)
 

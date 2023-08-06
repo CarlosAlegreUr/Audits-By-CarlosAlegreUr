@@ -4,9 +4,11 @@ This project is made by the **`Cyfrin`** team. Its audit was part of an audit co
 
 According to the developers:
 
-```
-This project is meant to enable smart contract auditors (sellers) and smart contract protocols looking for audits (buyers) to connect using a credibly neutral option, with optional arbitration.
-```
+---
+
+_`This project is meant to enable smart contract auditors (sellers) and smart contract protocols looking for audits (buyers) to connect using a credibly neutral option, with optional arbitration.`_
+
+---
 
 Competition details in 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)
 
