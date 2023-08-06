@@ -1,13 +1,13 @@
 # What's this repo ❓
 
-This is a **hub repo** for easily checking any of **my audits I can show so far**.
+This is a hub repo for easily checking any of **my audits I can show so far**.
 
-In **each audit's report** you can find:
+**In each audit's report** you can find:
 
-- _An overview of the audited project._ ℹ️
-- _The rewards I earned from the audit._ 💸🧠
-- _Key takeaways and lessons learned._ 👨‍💻
-- _The report itself._ 📝
+- _An **`overview of`** the audited **`project`**. ℹ️
+- _The **`rewards I earned`** from the audit._ 💸🧠
+- _Key takeaways and **`lessons learned`**._ 👨‍💻
+- _**`The report`** itself._ 📝
 
 <hr/>
 
