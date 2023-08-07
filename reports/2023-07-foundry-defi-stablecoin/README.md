@@ -10,7 +10,7 @@ _`This project is meant to be a stablecoin where users can deposit WETH and WBTC
 
 ---
 
-Competition details in 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)
+Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)
 
 # Rewards Earned 💸🧠
 
@@ -24,12 +24,20 @@ Competition details in 🦅CodeHawks🦅: [click here](https://www.codehawks.com
 
 # _The reports_ 📝
 
-Check the findings' reports I submitted (`ordered by vulnerability's risk level`):
+Check the findings' reports I submitted (_`ordered by severity level`_):
+
+#### High
 
 - [🔗 High1-TheSolvencyIllusion](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/High1-TheSolvencyIllusion-CarlosAlegreUr.md)
 
+#### Low
+
 - [🔗 Low1-HealthFactorPrecision](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/Low1-HealthFactorPrecision-CarlosAlegreUr.md)
 
+#### Gas Optimization
+
 - [🔗 Gas1-ViaIrCompiling](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/Gas1-ViaIrCompiling-CarlosAlegreUr.md)
+
+#### QA (QualityAssurance)
 
 - [🔗 Informational1-GlobalVariable](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/Informational1-GlobalVariable-CarlosAlegreUr.md)
