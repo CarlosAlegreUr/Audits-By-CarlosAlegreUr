@@ -15,7 +15,7 @@ Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- Maybe money, rewards announced on 19/August/2023. 💸
+- 166$ 💸
 
 # Lessons Learned 🧑‍💻
 
