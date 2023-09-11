@@ -1,6 +1,6 @@
 ## Deduction 🧠
 
-### I've uploaded this document before the ending date of the audit thus, so as to no-one copies my finding, this document has limited information. To contextualize this math prodecure you should read my finding on it first. ❗❗❗
+### I've uploaded this document before the ending date of the audit thus, so as to no-one copies my finding, this document has limited information. To contextualize this math prodecure you should read all the text in my finding first. ❗❗❗
 
 > 📘 **Note** ℹ️ As all numbers are positive, multiplicating doesnt change inequality symbol.
 
@@ -39,6 +39,6 @@
 3. **Multiply both sides by \( C \) and \( O * n_O \) to eliminate division and facilitate Solidiy's implementation and there we got the final ***`Purposeless Inequality`***.**
 
     **LaTeX Display:**
-    # $ O \cdot n_O \cdot e_C \cdot (1 - d)  \geq C \cdot n_O \cdot e_O + O \cdot d \cdot e_C $
+    # $O \cdot n_O \cdot e_C \cdot (1 - d)  \geq C \cdot n_O \cdot e_O + O \cdot d \cdot e_C$
     
     ###### **Classic Keyboard Display:** `O * n_O * e_C * (1-d) >= C * n_O * e_O + O * d * e_C`
