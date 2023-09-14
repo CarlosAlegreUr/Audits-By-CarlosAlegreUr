@@ -15,7 +15,7 @@ Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- Maybe money, rewards will be announced around a month. 💸
+- 8.21$ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -31,10 +31,10 @@ Check the findings' reports I submitted (_`ordered by severity level`_):
 
 #### Medium
 
-- [🔗 Medium1-SignaturesPhishing](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-08-sparkn/Medium1-SignaturesPhishing-CarlosAlegreUr.md)
+- [🔗 Medium1-SignaturesPhishing](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-08-sparkn/Medium1-SignaturesPhishing-CarlosAlegreUr.md) (`Invalid finding: problems from users inputs are not considered valid`)
 
 #### Low
 
-- [🔗 Low1-BlockTimestampCanRevertValidTransaction](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-08-sparkn/Low1-BlockTimestampCanRevertValidTransaction-CarlosAlegreUr.md)
+- [🔗 Low1-BlockTimestampCanRevertValidTransaction](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-08-sparkn/Low1-BlockTimestampCanRevertValidTransaction-CarlosAlegreUr.md) (`Invalid finding: this consequences were known and expected by the devs`)
 
 - [🔗 Low2-EventCanBeEmittedIncorrectly](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)

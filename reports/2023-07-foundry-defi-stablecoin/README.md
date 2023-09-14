@@ -15,7 +15,7 @@ Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- Maybe money, rewards will be announced around 19/August/2023. 💸
+- 1.32$ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -28,7 +28,7 @@ Check the findings' reports I submitted (_`ordered by severity level`_):
 
 #### High
 
-- [🔗 High1-TheSolvencyIllusion](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/High1-TheSolvencyIllusion-CarlosAlegreUr.md)
+- [🔗 High1-TheSolvencyIllusion](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/High1-TheSolvencyIllusion-CarlosAlegreUr.md) (`Invalid finding: logic was wrong, this problem is not real`)
 
 #### Low
 
@@ -36,7 +36,7 @@ Check the findings' reports I submitted (_`ordered by severity level`_):
 
 #### Gas Optimization
 
-- [🔗 Gas1-ViaIrCompiling](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/Gas1-ViaIrCompiling-CarlosAlegreUr.md)
+- [🔗 Gas1-ViaIrCompiling](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-foundry-defi-stablecoin/Gas1-ViaIrCompiling-CarlosAlegreUr.md) (`Invalid finding: valid but out of scope`)
 
 #### QA (QualityAssurance)
 

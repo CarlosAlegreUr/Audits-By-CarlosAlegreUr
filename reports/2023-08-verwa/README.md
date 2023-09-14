@@ -15,7 +15,7 @@ Competition details on code4arena: [click here](https://code4rena.com/contests/2
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- Maybe money, rewards will be announced soon. 💸
+- 9.82$ 💸
 
 # Lessons Learned 🧑‍💻
 

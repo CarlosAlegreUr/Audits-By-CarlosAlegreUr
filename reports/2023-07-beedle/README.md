@@ -15,7 +15,7 @@ Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- 166$ 💸
+- 166.05$ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -33,7 +33,7 @@ Check the findings' reports I submitted (_`ordered by severity level`_):
 
 #### Medium
 
-- [🔗 Medium1-FrontRun](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-beedle/Vulnerabilities-Reports/Medium1-FrontRun-CarlosAlegreUr.md)
+- [🔗 Medium1-FrontRun](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-beedle/Vulnerabilities-Reports/Medium1-FrontRun-CarlosAlegreUr.md) (`Invalid finding: consequences were expected`)
 - [🔗 Medium2-BlockTimestamp](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-beedle/Vulnerabilities-Reports/Medium2-BlockTimestamp-CarlosAlegreUr.md)
 - [🔗 Medium3-AdaptedOwnableProblems](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-beedle/Vulnerabilities-Reports/Medium3-AdaptedOwnableProblems-CarlosAlegreUr.md)
 - [🔗 Medium4-StorageOccupation](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-beedle/Vulnerabilities-Reports/Medium4-StorageOccupation-CarlosAlegreUr.md)
