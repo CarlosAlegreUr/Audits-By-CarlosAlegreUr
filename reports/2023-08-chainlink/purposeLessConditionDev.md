@@ -49,7 +49,7 @@
     
 **Classic Keyboard Display:** `O * n_O * s * e_C * (1-d) >= (n_O * s * e_O + O * d * e_C) * C`
 
-> 🚧 **Note:** ⚠️ The delegation rate \( d \) inherently involves division as \( d = 1/denominatorValue \).
+> 🚧 **Note:** ⚠️ TEXT IN THE FNDING.
 
 ---
 
