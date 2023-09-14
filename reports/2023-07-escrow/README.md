@@ -30,4 +30,4 @@ Check the findings' reports I submitted:
 
 #### Gas optimization
 
-- [🔗 Gas1-LeverageVariable](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-escrow/Gas1-LeverageVariable-CarlosAlegreUr.md)
+- [🔗 Gas1-LeverageVariable](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-07-escrow/Gas1-LeverageVariable-CarlosAlegreUr.md) (`Invalid finding: optimization creates a bug`)
