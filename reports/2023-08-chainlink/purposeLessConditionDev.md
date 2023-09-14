@@ -62,11 +62,11 @@
 
 ---
 
-5️⃣. **On the left side of the equation, we have a negative number. This brings up two critical considerations. First, lets divide the factor mulitplying (s) on both sides. Now the sign of the denominator in the left side will determine the direction of the inequality. Second, it's worth noting that this value is no longer guaranteed to remain positive after these manipulations. Therefore, depending on these factors, we are led to two distinct analytical scenarios.**
+5️⃣. **TEXT IN THE FINDING**
 
 ---
 
-6️⃣. **In the first scenario, where the denominator is positive, the inequality retains its original direction. Consequently, the equation involves dividing a negative value by a positive one, which assures a negative result. This must be greater than or equal to \( s * n_o \), which is definitively positive. Given this contradiction, it becomes clear that the condition for incentives failing is infeasible. As a result, the system's security is guaranteed.**
+6️⃣. **TEXT IN THE FINDING**
 
 ---
 
@@ -75,13 +75,13 @@
 
 **Classic Keyboard Display:** `(-O * d * e_C * C) / (C * e_O - O * e_C * (1-d)) >=  s * n_o` 
 
-7️⃣. **In the second scenario, the denominator is negative. Thus the inequality symbol must be inverted and, when dividing two negative numbers, the result turns positive. Consequently, we're comparing two positive values in the inequality. The condition for proper incentives can either be met or unmet. If it's met, the system's incentive structure remains uncertain as we have proofed that it depends on (s) which is capital from the operator. If unmet, the system's integrity and effectiveness of incentives are assured as we confirm that is false the assumtion that the equation defines which is, checking if comminity pool is more profitable.**
+7️⃣. **TEXT IN THE FINDING**
 
 **LaTeX Display:**
 # $\frac{-O \cdot d \cdot e_C}{(C \cdot e_O - O \cdot e_C \cdot (1 - d))} \leq s \cdot n_O$
 **Classic Keyboard Display:** `(-O * d * e_C * C) / (C * e_O - O * e_C * (1-d)) <=  s * n_o` 
 
-#### Notice that from step 6 we get this other useful condition:
+#### TEXT IN THE FINDING:
 
 # $(C \cdot e_O - O \cdot e_C \cdot (1 - d)) > 0$
 **Classic Keyboard Display:** `C * e_o - O * e_c * (1-d) > 0`
