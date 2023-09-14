@@ -2,7 +2,7 @@
 
 ### I've uploaded this document before the ending date of the audit thus, so as to no-one copies my finding, this document has limited information. To contextualize this math prodecure you should read all the text in my finding first. ❗❗❗
 
-> 📘 **Note** ℹ️ As all numbers are positive, multiplicating doesnt change inequality symbol, for now.
+> 📘 **Note** ℹ️ TEXT IN FINDING.
 
 **LaTeX Display:**
 # $\frac{s}{C} \cdot e_c \cdot t - d \cdot \frac{s}{C} \cdot e_c \cdot t \geq \frac{s}{O} \cdot e_O \cdot t + \frac{d \cdot e_c \cdot t}{n_O}$
