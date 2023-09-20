@@ -15,7 +15,7 @@ Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- 8.21$ 💸
+- 19.88$ 💸
 
 # Lessons Learned 🧑‍💻
 
