@@ -11,22 +11,28 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 
 <hr/>
 
+# General Stats 📈
+
+| `H-M` 🎖️  | `QA-Low-Gas` 👨‍💻 | _High Risk_ 🏅 | _Medium Rik_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ | _Total Audits_ 🛡️ | _Total Earnings_ 💸 |
+| --------- | --------------- | -------------- | --------------- | ------------- | -------- | ---------------------- | ----------------- | ------------------- |
+| **_`5`_** | **_`16`_**      | 2              | 3               | 4             | 10       | 2                      | 6                 | **_`197.07$`_**     |
+
+<hr/>
+
 # Audits List 📓
 
-- 🔒 => **audits** which I'm **not allowed to share** anything else **but economical earnings**
+- 🔒 => **audits** which I'm **not allowed to share** anything else **but financial earnings**
 - 💵 => **audits** which all **rewards are known**
 - 🟡 => **audits** which are **being judged**
 
 (from **most recent** to **oldest**)
 
-| _State_ | _Topic_                                                    | _Project's Repo_                                                                                | _Audit Reports_                                                                                                              | _Date_                          |
-| ------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 🟡🔒      | Chainlink Staking v0.2                                    | 🔗 [2023-08-chainlink](https://github.com/code-423n4/2023-08-chainlink)                         | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-08-chainlink)              | 25/August/2023 - 12/September/2023 |
-| 💵      | Marketplace for problem solving deals                      | 🔗 [2023-08-sparkn](https://github.com/Cyfrin/2023-08-sparkn)                                   | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-08-sparkn)                  | 21/August/2023 - 23/August/2023         |
-| 💵      | Voting-escrow incentivization model & Rewards Distribution | 🔗 [2023-08-verwa](https://github.com/code-423n4/2023-08-verwa)                                 | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-08-verwa)                   | 07/August/2023 - 10/August/2023 |
-| 💵      | Stablecoin Pegged to $                                     | 🔗 [2023-07-foundry-defi-stablecoin](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin) | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-foundry-defi-stablecoin) | 29/July/2023 - 31/July/2023     |
-| 💵      | ERC20 Perpetual Lending Oracle-Free                        | 🔗 [2023-07-beedle](https://github.com/Cyfrin/2023-07-beedle)                                   | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-beedle)                  | 25/July/2023 - 29/July/2023     |
-| 💵      | Escrow Contract                                            | 🔗 [2023-07-escrow](https://github.com/Cyfrin/2023-07-escrow/tree/main)                         | [go to report](https://ithub.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-escrow)                   | 23/July/2023 - 25/July/2023     |
-| 💵      | Stablecoin Pegged to $                                     | 🔗 [foundry-defi-stablecoin-f23](https://github.com/Cyfrin/foundry-defi-stablecoin-f23/)        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice)                                                       | 16/July/2023 - 22/July/2023     |
-
-
+| _State_ | _Topic_                                                    | _Project's Repo_                                                                                | _Audit Reports_                                                                                                              | _Date_                             |
+| ------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| 🟡🔒    | Chainlink Staking v0.2                                     | 🔗 [2023-08-chainlink](https://github.com/code-423n4/2023-08-chainlink)                         | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-08-chainlink)               | 25/August/2023 - 12/September/2023 |
+| 💵      | Marketplace for problem solving deals                      | 🔗 [2023-08-sparkn](https://github.com/Cyfrin/2023-08-sparkn)                                   | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-08-sparkn)                  | 21/August/2023 - 23/August/2023    |
+| 💵      | Voting-escrow incentivization model & Rewards Distribution | 🔗 [2023-08-verwa](https://github.com/code-423n4/2023-08-verwa)                                 | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-08-verwa)                   | 07/August/2023 - 10/August/2023    |
+| 💵      | Stablecoin Pegged to $                                     | 🔗 [2023-07-foundry-defi-stablecoin](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin) | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-foundry-defi-stablecoin) | 29/July/2023 - 31/July/2023        |
+| 💵      | ERC20 Perpetual Lending Oracle-Free                        | 🔗 [2023-07-beedle](https://github.com/Cyfrin/2023-07-beedle)                                   | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-beedle)                  | 25/July/2023 - 29/July/2023        |
+| 💵      | Escrow Contract                                            | 🔗 [2023-07-escrow](https://github.com/Cyfrin/2023-07-escrow/tree/main)                         | [go to report](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/tree/main/reports/2023-07-escrow)                  | 23/July/2023 - 25/July/2023        |
+| 💵      | Stablecoin Pegged to $                                     | 🔗 [foundry-defi-stablecoin-f23](https://github.com/Cyfrin/foundry-defi-stablecoin-f23/)        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice)                                                       | 16/July/2023 - 22/July/2023        |
