@@ -1,4 +1,6 @@
-# What's this repo ❓
+### What's this repo ❓
+
+<details><summary> Explanation 💁 </summary>
 
 This is a hub repo for easily checking any of **my audits I can show so far**.
 
@@ -8,6 +10,8 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 - _The **`rewards I earned`** from the audit._ 💸🧠
 - _Key takeaways and **`lessons learned`**._ 👨‍💻
 - _**`The report`** itself._ 📝
+
+</details>
 
 <hr/>
 
