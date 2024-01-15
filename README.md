@@ -31,11 +31,35 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 
 ## Rankings 🏆 (at 16/11/2023)
 
-[code4arena](https://code4rena.com/@carlos__alegre) **top 13%** of auditors all time
+[My Code4arena profile](https://code4rena.com/@carlos__alegre) - (**top 13%** of auditors all time)
 
-[codeHawks](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul) **top 15%** of auditors all time
+[My CodeHawks profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul) - (**top 15%** of auditors all time)
 
 <hr/>
+
+# Audits List 📓
+
+<details><summary> See it 👁️ </summary>
+
+
+- 🔒 => **audits** which I'm **not allowed to share finding details but I can financial earnings**
+- 💵 => **audits** which all **rewards are known**
+- 🟡 => **audits** which are **being judged**
+
+(from **most recent** to **oldest**)
+
+| _State_        | _Topic_                                                    | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             | Done when I was |
+| -------------- | ---------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- | --------------- |
+| 🟡              | The Standard                                               | X/X/X/X/X/X              | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 | _Intermediate_  |
+| 💵🔒             | Chainlink Staking v0.2                                     | **`$367.34/X/X/9/X/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 | _Beginner_      |
+| 💵              | Marketplace for problem solving deals                      | **`$19.88/X/X/1/X/X`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    | _Beginner_      |
+| 💵              | Voting-escrow incentivization model & Rewards Distribution | **`$9.82/X/X/1/X/4`**    | [go to report](./reports/2023-08-verwa)                                | 07/August/2023 - 10/August/2023    | _Beginner_      |
+| 💵              | Stablecoin Pegged to $                                     | **`$1.32/X/X/1/X/1`**    | [go to report](./reports/2023-07-foundry-defi-stablecoin)              | 29/July/2023 - 31/July/2023        | _Beginner_      |
+| 💵              | ERC20 Perpetual Lending Oracle-Free                        | **`$166.05/2/3/X/2/5`**  | [go to report](./reports/2023-07-beedle)                               | 25/July/2023 - 29/July/2023        | _Beginner_      |
+| 💵              | Escrow Contract                                            | **`$0/X/X/X/X/X`**       | [go to report](./reports/2023-07-escrow)                               | 23/July/2023 - 25/July/2023        | _Beginner_      |
+| Practice Audit | Stablecoin Pegged to $                                     | **`X/X/X/X/X/X`**        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice) | 16/July/2023 - 22/July/2023        | _Beginner_      |
+
+</details>
 
 # Interesting Findings 🕵️
 
@@ -50,26 +74,4 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 
 </details>
   
-# Audits List 📓
 
-<details><summary> See it 👁️ </summary>
-
-
-- 🔒 => **audits** which I'm **not allowed to share finding details but I can financial earnings**
-- 💵 => **audits** which all **rewards are known**
-- 🟡 => **audits** which are **being judged**
-
-(from **most recent** to **oldest**)
-
-| _State_        | _Topic_                                                    | _$/H/M/L/G/QA_          | _Audit Reports_                                                        | _Date_                             | Done when I was |
-| -------------- | ---------------------------------------------------------- | ----------------------- | ---------------------------------------------------------------------- | ---------------------------------- | --------------- |
-| 🟡              | The Standard                                               | X/X/X/X/X/X             | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 | _Intermediate_  |
-| 💵🔒             | Chainlink Staking v0.2                                     | **`$367.34/X/X/9/X/5`** | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 | _Beginner_      |
-| 💵              | Marketplace for problem solving deals                      | **`$19.88/X/X/1/X/X`**  | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    | _Beginner_      |
-| 💵              | Voting-escrow incentivization model & Rewards Distribution | **`$9.82/X/X/1/X/4`**   | [go to report](./reports/2023-08-verwa)                                | 07/August/2023 - 10/August/2023    | _Beginner_      |
-| 💵              | Stablecoin Pegged to $                                     | **`$1.32/X/X/1/X/1`**   | [go to report](./reports/2023-07-foundry-defi-stablecoin)              | 29/July/2023 - 31/July/2023        | _Beginner_      |
-| 💵              | ERC20 Perpetual Lending Oracle-Free                        | **`$166.05/2/3/X/2/5`** | [go to report](./reports/2023-07-beedle)                               | 25/July/2023 - 29/July/2023        | _Beginner_      |
-| 💵              | Escrow Contract                                            | **`$0/X/X/X/X/X`**      | [go to report](./reports/2023-07-escrow)                               | 23/July/2023 - 25/July/2023        | _Beginner_      |
-| Practice Audit | Stablecoin Pegged to $                                     | **`X/X/X/X/X/X`**       | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice) | 16/July/2023 - 22/July/2023        | _Beginner_      |
-
-</details>
