@@ -35,12 +35,6 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 
 [My CodeHawks profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul) - (**top 15%** of auditors all time)
 
-## Rankings 🏆 (at 16/11/2023)
-
-[code4arena](https://code4rena.com/@carlos__alegre) **top 13%** of auditors
-
-[codeHawks](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul) **top 15%** of auditors
-
 <hr/>
 
 # Audits List 📓
