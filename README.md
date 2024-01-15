@@ -71,7 +71,7 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 - [🔵 Low- Low-level .call emits incorrect event](./reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)
 - [⚪ QA- Refactor of the codebase (chosen for report in codeHawks)](./reports/2023-07-beedle/QA-Reports/QA2-Refactor-CarlosAlegreUr.md)
 - [⚪🔵 QA-Low- Report Grade A for code4arena](./reports/2023-08-verwa/QALowRisk-Report-veRWA-CarlosAlegreUr.md)
-- [⛽ Gas- Compiler Flag Usage (looks pretty)](./reports/2023-07-beedle/Vulnerabilities-Reports/Medium4-StorageOccupation-CarlosAlegreUr.md)
+- [⛽ Gas- Compiler Flag Usage (looks pretty)](./reports/2023-07-beedle/Gas-Reports/Gas1-CompilerFlag-CarlosAlegreUr.md)
 
 </details>
   
