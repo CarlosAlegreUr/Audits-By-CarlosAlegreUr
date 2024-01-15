@@ -2,6 +2,8 @@
 
 This project is made by the **`BeedleFi`** team. Its audit was part of an audit competition at CodeHawks.
 
+🔗 [2023-07-beedle](https://github.com/Cyfrin/2023-07-beedle)
+
 According to the developers this project is:
 
 ---

@@ -2,6 +2,8 @@
 
 This project is made by the **`Cyfrin`** team. Its audit was part of an audit competition at CodeHawks.
 
+🔗 [2023-07-foundry-defi-stablecoin](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin) 
+
 According to the developers:
 
 ---

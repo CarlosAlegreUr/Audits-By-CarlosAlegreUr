@@ -2,6 +2,8 @@
 
 This project is made by the **`The Standard`** team. Its audit was part of an audit competition at codeHawks.
 
+🔗 [2023-12-the-standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)
+
 According to the developers:
 
 ---
