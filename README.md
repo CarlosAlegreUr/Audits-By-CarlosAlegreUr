@@ -66,6 +66,7 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 <details><summary> See them 👁️ </summary>
 
 - [🔴 High- Decimals not handled properly (my first high)](./reports/2023-07-beedle/Vulnerabilities-Reports/High1-Decimals-CarlosAlegreUr.md)
+  
 - [⚪ Chainlink QA+LowRisk report grade A (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
 - [🔵 Low- Low-level .call emits incorrect event](./reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)
 - [⚪ QA- Refactor of the codebase (chosen for report in codeHawks)](./reports/2023-07-beedle/QA-Reports/QA2-Refactor-CarlosAlegreUr.md)
