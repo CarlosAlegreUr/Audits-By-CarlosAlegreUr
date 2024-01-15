@@ -17,9 +17,9 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 
 # General Stats 📈
 
-| `H-M` 🎖️   | `QA-Low-Gas` 👨‍💻 | `Total Audits` 🛡️ | `Total Earnings` 💸 |
-| --------- | -------------- | ---------------- | ------------------ |
-| **_`5`_** | **_`25`_**     | **_`5`_**        | **_`564.41$`_**    |
+| `H-M` 🎖️  | `QA-Low-Gas` 👨‍💻 | `Total Audits` 🛡️ | `Total Earnings` 💸 |
+| --------- | --------------- | ----------------- | ------------------- |
+| **_`5`_** | **_`25`_**      | **_`6`_**         | **_`564.41$`_**     |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ |
 | ------------- | --------------- | ------------ | ------- | --------------------- |
@@ -34,6 +34,12 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 [My Code4arena profile](https://code4rena.com/@carlos__alegre) - (**top 13%** of auditors all time)
 
 [My CodeHawks profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul) - (**top 15%** of auditors all time)
+
+## Rankings 🏆 (at 16/11/2023)
+
+[code4arena](https://code4rena.com/@carlos__alegre) **top 13%** of auditors
+
+[codeHawks](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul) **top 15%** of auditors
 
 <hr/>
 
