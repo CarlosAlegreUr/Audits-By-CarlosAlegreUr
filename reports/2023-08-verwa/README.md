@@ -2,6 +2,8 @@
 
 This project is made by the **`Canto RWA`** team. Its audit was part of an audit competition at code4arena.
 
+🔗 [2023-08-verwa](https://github.com/code-423n4/2023-08-verwa)
+
 According to the developers:
 
 ---
