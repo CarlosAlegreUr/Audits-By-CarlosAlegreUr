@@ -17,9 +17,9 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 
 # General Stats 📈
 
-| `H-M` 🎖️  | `QA-Low-Gas` 👨‍💻 | `Total Audits` 🛡️ | `Total Earnings` 💸 |
-| --------- | --------------- | ----------------- | ------------------- |
-| **_`5`_** | **_`25`_**      | **_`6`_**         | **_`564.41$`_**     |
+| `H-M` 🎖️   | `QA-Low-Gas` 👨‍💻 | `Total Audits` 🛡️ | `Total Earnings` 💸 |
+| --------- | -------------- | ---------------- | ------------------ |
+| **_`5`_** | **_`25`_**     | **_`6`_**        | **_`564.41$`_**    |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ |
 | ------------- | --------------- | ------------ | ------- | --------------------- |
@@ -28,6 +28,7 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 ## Big Names Audited 🤓
 
 <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">
+
 
 ## Rankings 🏆 (at 16/11/2023)
 
@@ -39,7 +40,7 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 
 # Audits List 📓
 
-<details><summary> See it 👁️ </summary>
+<details><summary> See detailed info 🔍👁️ </summary>
 
 
 - 🔒 => **audits** which I'm **not allowed to share finding details but I can financial earnings**
@@ -60,6 +61,12 @@ This is a hub repo for easily checking any of **my audits I can show so far**.
 | Practice Audit | Stablecoin Pegged to $                                     | **`X/X/X/X/X/X`**        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice) | 16/July/2023 - 22/July/2023        | _Beginner_      |
 
 </details>
+
+|                                                                                                                                                                      |                                                                                                               |                                                                                                                       |                                                                                                                                                           |                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ocfw27qwcjzzd7ftoe8b?_a=BATAUVAA0" width="50">  | <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">                 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1692124967/company/mdsu3k5i2qjdx1sk1pav.png" width="50"> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FVT6Se7uAcfK.0&w=96&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689007253/featured/zorxcgolkzoivtb5gubq.png" width="50"> |
+| <img src=" https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_1.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/is0wiwcjnvzbnesiipsi?_a=BATAUVAA0" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width="50"> |                                                                                                                       |                                                                                                                                                           |                                                                                                                        |
+
 
 # Interesting Findings 🕵️
 

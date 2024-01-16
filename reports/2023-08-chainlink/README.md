@@ -4,6 +4,8 @@
 
 🔗 [2023-08-chainlink](https://github.com/code-423n4/2023-08-chainlink)
 
+Competition details on code4arena: [click here](https://code4rena.com/audits/2023-08-chainlink-staking-v02#top)
+
 # Rewards Earned 💸🧠
 
 - Experience and lots of knowledge. 😄
