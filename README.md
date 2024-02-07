@@ -19,7 +19,7 @@ At **07/02/2024**:
 | ---------- | --------- | ------------ | ---------- | ------------- |
 | 279.2      | 0         | 0            | 36.5       | **`315.7 h`** |
 
-> 📘 **Note** ℹ️: Practice means audits I've expected no rewards due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
+> 📘 **Note** ℹ️: Practice means audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
 
 </details>
 
@@ -90,7 +90,7 @@ At **07/02/2024**:
 
 # Practice Audits 📓
 
-> 📘 **Note** ℹ️: Audits I've expected no rewards due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
+> 📘 **Note** ℹ️: Audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
 
 |                                                                                                                                                                              |                                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
