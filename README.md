@@ -2,13 +2,13 @@
 
 # General Stats 📈
 
- | `Total Audits` 🛡️      | `Total Earnings` 💸 | `Time Spent 🕐 (at 07/02/2024)` |
- | --------------------- | ------------------ | ------------------------------ |
- | **_`8 (1 judging)`_** | **_`564.41$`_**    | **_`315.7h`_**                    |
+ | `Total Audits` 🛡️ | `Total Earnings` 💸 | `Time Spent 🕐 (at 07/02/2024)` |
+ | ---------------- | ------------------ | ------------------------------ |
+ | **_`8`_**        | **_`$904.53$`_**   | **_`315.7h`_**                 |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ |
 | ------------- | --------------- | ------------ | ------- | --------------------- |
-| 2             | 3               | 13           | 10      | 2                     |
+| 3             | 3               | 14           | 10      | 2                     |
 
 ##### `Detailed time spent stats 🕐`
 <details> <summary> 🕐📈 </summary> 
@@ -28,11 +28,11 @@ At **07/02/2024**:
 <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">
 
 
-## Rankings 🏆 (at 16/11/2023)
+## Rankings 🏆 (at 06/03/2024)
 
 [My Code4arena profile](https://code4rena.com/@carlos__alegre) - (**top 13%** of auditors all time)
 
-[My CodeHawks profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul) - (**top 15%** of auditors all time)
+[My CodeHawks profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul) - (**TOP 100 auditors `Nº98`**)
 
 <hr/>
 
@@ -58,7 +58,7 @@ At **07/02/2024**:
 | _State_        | _Topic_                                                                 | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             | Done when I was |
 | -------------- | ----------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- | --------------- |
 | 🧠              | ***Avail Bridge***                                                      | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  | _Intermediate_  |
-| 🟡              | ***The Standard***: 2 stablecoins backed by assets to borrow assets     | X/X/X/X/X/X              | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 | _Intermediate_  |
+| 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets     | **`340.13$/1/X/1/X/X`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 | _Intermediate_  |
 | 💵🔒             | ***Chainlink Staking v0.2***                                            | **`$367.34/X/X/9/X/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 | _Beginner_      |
 | 💵              | ***Sparkn***: Marketplace for problem solving deals                     | **`$19.88/X/X/1/X/X`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    | _Beginner_      |
 | 💵              | ***veRWA***: Voting-escrow incentivization model & Rewards Distribution | **`$9.82/X/X/1/X/4`**    | [go to report](./reports/2023-08-verwa)                                | 07/August/2023 - 10/August/2023    | _Beginner_      |
@@ -78,9 +78,13 @@ At **07/02/2024**:
 
 <details><summary> See them 👁️ </summary>
 
-- [🔴 High- Decimals not handled properly (my first high)](./reports/2023-07-beedle/Vulnerabilities-Reports/High1-Decimals-CarlosAlegreUr.md)
-  
+- [⚫ Critical- My first critical, DOS cause of array size](./reports/2023-12-the-standard/VulnerabilitiesReport/Critical1-ArraysExceedGasLimit-CarlosAlegreUr.md)
+
+- [🔴 High- My first High, Decimals not handled properly](./reports/2023-07-beedle/Vulnerabilities-Reports/High1-Decimals-CarlosAlegreUr.md)
+
+- [🔵 Low- A low worth 340.12$!](./reports/2023-12-the-standard/VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
 - [⚪ Chainlink QA+LowRisk report grade A (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
+
 - [🔵 Low- Low-level .call emits incorrect event](./reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)
 - [⚪ QA- Refactor of the codebase (chosen for report in codeHawks)](./reports/2023-07-beedle/QA-Reports/QA2-Refactor-CarlosAlegreUr.md)
 - [⚪🔵 QA-Low- Report Grade A for code4arena](./reports/2023-08-verwa/QALowRisk-Report-veRWA-CarlosAlegreUr.md)

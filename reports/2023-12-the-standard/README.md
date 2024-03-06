@@ -17,7 +17,7 @@ Competition details on codeHawks: [click here](https://www.codehawks.com/contest
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- IN JUDGNG PROCESS$ 💸
+- 340.13$ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -35,11 +35,11 @@ Check the findings' reports I submitted:
 
 #### Medium 🟡
 
-- [🔗 Medium1-InconsistentSafeTransfer](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Medium1-InconsistentSafeTransfer-CarlosAlegreUr.md)
-- [🔗 Medium2-2TxProcesses&&Delay](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Medium2-2TxProcesses&&Delay-CarlosAlegreUr.md)
-- [🔗 Medium3-EncodePackedInMappings](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Medium3-EncodePackedInMappings-CarlosAlegreUr.md)
+- [🔗 Medium1-InconsistentSafeTransfer](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Medium1-InconsistentSafeTransfer-CarlosAlegreUr.md) (`Invalid: known issue`)
+- [🔗 Medium2-2TxProcesses&&Delay](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Medium2-2TxProcesses&&Delay-CarlosAlegreUr.md) (`Invalid: downgraded to informational`)
+- [🔗 Medium3-EncodePackedInMappings](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Medium3-EncodePackedInMappings-CarlosAlegreUr.md) (`Invalid: downgraded to infomrational, won't happen with the current tokens`)
 
 #### Low 🔵
 
-- [🔗 Low1-ChainlinkStaleness](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Low1-ChainlinkStaleness-CarlosAlegreUr.md) 
-- [🔗 Low2-BlockTimestamp](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
+- [🔗 Low1-ChainlinkStaleness](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Low1-ChainlinkStaleness-CarlosAlegreUr.md)(`Invalid: chainlink trusted blindly at staleness level`)
+- [🔗 Low2-FunctionShouldBePublic](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
