@@ -1,4 +1,5 @@
 <hr/>
+<hr/>
 
 # General Stats 📈
 
@@ -39,6 +40,7 @@ At **07/02/2024**:
 
 
 <hr/>
+<hr/>
 
 # Audits List 📓
 
@@ -78,6 +80,9 @@ At **07/02/2024**:
 | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Favail.png&w=96&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ocfw27qwcjzzd7ftoe8b?_a=BATAUVAA0" width="50"> | <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">                 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1692124967/company/mdsu3k5i2qjdx1sk1pav.png" width="50"> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FVT6Se7uAcfK.0&w=96&q=75" width="50"> |
 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689007253/featured/zorxcgolkzoivtb5gubq.png" width="50">                                       | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_1.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/is0wiwcjnvzbnesiipsi?_a=BATAUVAA0" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width="50"> |                                                                                                                       |                                                                                                                                                           |  |
 
+<hr/>
+<hr/>
+
 # Interesting Findings 🕵️
 
 <details><summary> See them 👁️ </summary>
@@ -96,6 +101,9 @@ At **07/02/2024**:
 
 </details>
 
+<hr/>
+<hr/>
+
 # Practice Audits 📓
 
 > 📘 **Note** ℹ️: Audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
@@ -104,4 +112,5 @@ At **07/02/2024**:
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FHK728fzERfV.0&w=96&q=75" width="50"> <p>zk-sync Era</p> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Farcadia.jpg&w=96&q=75" width="50"> <p>Arcadia V2</p> |
 
----
+<hr/>
+<hr/>
