@@ -30,9 +30,13 @@ At **07/02/2024**:
 
 ## Rankings 🏆 (at 06/03/2024)
 
-[My Code4arena profile](https://code4rena.com/@carlos__alegre) - (**top 13%** of auditors all time)
 
-[My CodeHawks profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul) - (**TOP 100 auditors `Nº98`**)
+| `code4arena`                                                                                          | `codeHawks`                                                                                          | `solodit`                                                                                             |
+| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| <img src="https://pbs.twimg.com/profile_images/1631113162262183936/IV_fsyQ3_400x400.png" width="60"> | <img src="https://pbs.twimg.com/profile_images/1700276087320657920/TCQQve6f_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1706265953565106177/QGIZ9FKj_400x400.png" width="60"> |
+| \ **`TOP 13%`** auditors all time /                                                                     | \ **`TOP 100` auditors `Nº98`** /                                                                      | \ **`TOP 100` auditors `Nº93`** /                                                                       |
+| [See profile](https://code4rena.com/@carlos__alegre)                                                   | [See profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul)                            | [See profile](https://solodit.xyz/user/charles__cheerful)                                              |
+
 
 <hr/>
 
