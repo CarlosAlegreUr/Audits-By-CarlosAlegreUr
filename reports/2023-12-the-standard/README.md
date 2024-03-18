@@ -31,15 +31,15 @@ Check the findings' reports I submitted:
 
 #### Critical ⚫
 
-- [🔗 Critical1-ArraysExceedGasLimitDos](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Critical1-ArraysExceedGasLimit-CarlosAlegreUr.md)
+- [🔗 Critical1-ArraysExceedGasLimitDos](./VulnerabilitiesReport/Critical1-ArraysExceedGasLimit-CarlosAlegreUr.md)
 
 #### Medium 🟡
 
-- [🔗 Medium1-InconsistentSafeTransfer](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Medium1-InconsistentSafeTransfer-CarlosAlegreUr.md) (`Invalid: known issue`)
-- [🔗 Medium2-2TxProcesses&&Delay](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Medium2-2TxProcesses&&Delay-CarlosAlegreUr.md) (`Invalid: downgraded to informational`)
-- [🔗 Medium3-EncodePackedInMappings](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Medium3-EncodePackedInMappings-CarlosAlegreUr.md) (`Invalid: downgraded to infomrational, won't happen with the current tokens`)
+- [🔗 Medium1-InconsistentSafeTransfer](./VulnerabilitiesReport/Medium1-InconsistentSafeTransfer-CarlosAlegreUr.md) (`Invalid: known issue`)
+- [🔗 Medium2-2TxProcesses&&Delay](./VulnerabilitiesReport/Medium2-2TxProcesses&&Delay-CarlosAlegreUr.md) (`Invalid: downgraded to informational`)
+- [🔗 Medium3-EncodePackedInMappings](./VulnerabilitiesReport/Medium3-EncodePackedInMappings-CarlosAlegreUr.md) (`Invalid: downgraded to infomrational, won't happen with the current tokens`)
 
 #### Low 🔵
 
-- [🔗 Low1-ChainlinkStaleness](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Low1-ChainlinkStaleness-CarlosAlegreUr.md)(`Invalid: chainlink trusted blindly at staleness level`)
-- [🔗 Low2-FunctionShouldBePublic](https://github.com/CarlosAlegreUr/Audits-By-CarlosAlegreUr/blob/main/reports/2023-12-the-standard/Vulnerabilities-Reports/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
+- [🔗 Low1-ChainlinkStaleness](./VulnerabilitiesReport/Low1-ChanlinkStaleness-CarlosAlegreUr.md)(`Invalid: chainlink trusted blindly at staleness level`)
+- [🔗 Low2-FunctionShouldBePublic](./VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
