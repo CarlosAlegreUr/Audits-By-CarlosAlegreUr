@@ -3,7 +3,7 @@
 
 # General Stats 📈
 
- | `Total Audits` 🛡️      | `Total Earnings` 💸 | `Time Spent 🕐 (at 07/02/2024)` |
+ | `Total Audits` 🛡️      | `Total Earnings` 💸 | `Time Spent 🕐 (at 20/03/2024)` |
  | --------------------- | ------------------ | ------------------------------ |
  | **_`9 (1 judging)`_** | **_`$904.53$`_**   | **_`336.7h`_**                 |
 
