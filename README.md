@@ -3,9 +3,9 @@
 
 # General Stats 📈
 
- | `Total Audits` 🛡️ | `Total Earnings` 💸 | `Time Spent 🕐 (at 07/02/2024)` |
- | ---------------- | ------------------ | ------------------------------ |
- | **_`9 (1 judging)`_**        | **_`$904.53$`_**   | **_`336.7h`_**                 |
+ | `Total Audits` 🛡️      | `Total Earnings` 💸 | `Time Spent 🕐 (at 07/02/2024)` |
+ | --------------------- | ------------------ | ------------------------------ |
+ | **_`9 (1 judging)`_** | **_`$904.53$`_**   | **_`336.7h`_**                 |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ |
 | ------------- | --------------- | ------------ | ------- | --------------------- |
@@ -61,18 +61,18 @@ At **07/02/2024**:
 
 (from **most recent** to **oldest**)
 
-| _State_        | _Topic_                                                                 | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             | Done when I was |
-| -------------- | ----------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- | --------------- |
-| 🟡              | ***WOOFi Swap***                                                        | **`$X/X/X/X/X/X`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      | _Intermediate_  |
-| 🧠              | ***Avail Bridge***                                                      | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  | _Intermediate_  |
-| 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets     | **`$340.13/1/X/1/X/X`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 | _Intermediate_  |
-| 💵🔒             | ***Chainlink Staking v0.2***                                            | **`$367.34/X/X/9/X/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 | _Beginner_      |
-| 💵              | ***Sparkn***: Marketplace for problem solving deals                     | **`$19.88/X/X/1/X/X`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    | _Beginner_      |
-| 💵              | ***veRWA***: Voting-escrow incentivization model & Rewards Distribution | **`$9.82/X/X/1/X/4`**    | [go to report](./reports/2023-08-verwa)                                | 07/August/2023 - 10/August/2023    | _Beginner_      |
-| 💵              | Stablecoin Pegged to $                                                  | **`$1.32/X/X/1/X/1`**    | [go to report](./reports/2023-07-foundry-defi-stablecoin)              | 29/July/2023 - 31/July/2023        | _Beginner_      |
-| 💵              | ***Beedle***: ERC20 Perpetual Lending Oracle-Free                       | **`$166.05/2/3/X/2/5`**  | [go to report](./reports/2023-07-beedle)                               | 25/July/2023 - 29/July/2023        | _Beginner_      |
-| 🧠              | Escrow Contract                                                         | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-07-escrow)                               | 23/July/2023 - 25/July/2023        | _Beginner_      |
-| Practice Audit | Stablecoin Pegged to $                                                  | **`X/X/X/X/X/X`**        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice) | 16/July/2023 - 22/July/2023        | _Beginner_      |
+| _State_        | _Topic_                                                                                                            | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             | Done when I was |
+| -------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- | --------------- |
+| 🟡              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                              | **`$X/X/X/X/X/X`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      | _Intermediate_  |
+| 🧠              | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                                       | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  | _Intermediate_  |
+| 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                                | **`$340.13/1/X/1/X/X`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 | _Intermediate_  |
+| 💵🔒             | ***Chainlink Staking v0.2***: staking feature to strengthen reliability by offering extra incentives | **`$367.34/X/X/9/X/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 | _Beginner_      |
+| 💵              | ***Sparkn***: Marketplace for problem solving deals                                                                | **`$19.88/X/X/1/X/X`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    | _Beginner_      |
+| 💵              | ***veRWA***: Voting-escrow incentivization model & Rewards Distribution                                            | **`$9.82/X/X/1/X/4`**    | [go to report](./reports/2023-08-verwa)                                | 07/August/2023 - 10/August/2023    | _Beginner_      |
+| 💵              | Stablecoin Pegged to $                                                                                             | **`$1.32/X/X/1/X/1`**    | [go to report](./reports/2023-07-foundry-defi-stablecoin)              | 29/July/2023 - 31/July/2023        | _Beginner_      |
+| 💵              | ***Beedle***: ERC20 Perpetual Lending Oracle-Free                                                                  | **`$166.05/2/3/X/2/5`**  | [go to report](./reports/2023-07-beedle)                               | 25/July/2023 - 29/July/2023        | _Beginner_      |
+| 🧠              | Escrow Contract                                                                                                    | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-07-escrow)                               | 23/July/2023 - 25/July/2023        | _Beginner_      |
+| Practice Audit | Stablecoin Pegged to $                                                                                             | **`X/X/X/X/X/X`**        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice) | 16/July/2023 - 22/July/2023        | _Beginner_      |
 
 </details>
 
