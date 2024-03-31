@@ -3,9 +3,9 @@
 
 # General Stats 📈
 
- | `Total Audits` 🛡️      | `Total Earnings` 💸 | `Time Spent 🕐 (at 20/03/2024)` |
- | --------------------- | ------------------ | ------------------------------ |
- | **_`9 (1 judging)`_** | **_`$904.53$`_**   | **_`336.7h`_**                 |
+ | `Total Audits` 🛡️       | `Total Earnings` 💸 | `Time Spent 🕐 (at 31/03/2024)` |
+ | ---------------------- | ------------------ | ------------------------------ |
+ | **_`10 (2 judging)`_** | **_`$904.53$`_**   | **_`347.7h`_**                 |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ |
 | ------------- | --------------- | ------------ | ------- | --------------------- |
@@ -18,7 +18,7 @@ At **07/02/2024**:
 
 | `Contests` | `Private` | `Bug Bounty` | `Practice` | **`Total`**   |
 | ---------- | --------- | ------------ | ---------- | ------------- |
-| 310.2      | 0         | 0            | 36.5       | **`336.7 h`** |
+| 321.2      | 0         | 0            | 36.5       | **`347.7 h`** |
 
 > 📘 **Note** ℹ️: Practice means audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
 
@@ -46,40 +46,46 @@ At **07/02/2024**:
 
 <details><summary> See detailed info 🔍👁️ </summary>
 
-**In each audit's report** you can find:
-
-- \_An **`overview of`** the audited **`project`**. ℹ️
-- _The **`rewards I earned`** from the audit._ 💸🧠
-- _Key takeaways and **`lessons learned`**._ 👨‍💻
-- _**`The report`** itself._ 📝
+**Specific findings and details** of each audit in the `go to report` link.
 
 ##### `Keys 🗝️`
-- 🔒 => **not allowed to share finding details but I can financial earnings**
+
+<details> <summary> 🗝️ </summary>
+
 - 💵 => **rewards are known**
-- 🧠 => **found nothing valid but earned knowledge**
+- 🧠 => **found nothing valid but gained knowledge**
 - 🟡 => **being judged**
+- 🧑‍🤝‍🧑 => **audited in a team** 
+- 🔒 => **not allowed to share finding details**
+ 
+</details>
+
 
 (from **most recent** to **oldest**)
 
-| _State_        | _Topic_                                                                                                            | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             | Done when I was |
-| -------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- | --------------- |
-| 🟡              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                              | **`$X/X/X/X/X/X`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      | _Intermediate_  |
-| 🧠              | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                                       | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  | _Intermediate_  |
-| 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                                | **`$340.13/1/X/1/X/X`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 | _Intermediate_  |
-| 💵🔒             | ***Chainlink Staking v0.2***: staking feature to strengthen reliability by offering extra incentives | **`$367.34/X/X/9/X/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 | _Beginner_      |
-| 💵              | ***Sparkn***: Marketplace for problem solving deals                                                                | **`$19.88/X/X/1/X/X`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    | _Beginner_      |
-| 💵              | ***veRWA***: Voting-escrow incentivization model & Rewards Distribution                                            | **`$9.82/X/X/1/X/4`**    | [go to report](./reports/2023-08-verwa)                                | 07/August/2023 - 10/August/2023    | _Beginner_      |
-| 💵              | Stablecoin Pegged to $                                                                                             | **`$1.32/X/X/1/X/1`**    | [go to report](./reports/2023-07-foundry-defi-stablecoin)              | 29/July/2023 - 31/July/2023        | _Beginner_      |
-| 💵              | ***Beedle***: ERC20 Perpetual Lending Oracle-Free                                                                  | **`$166.05/2/3/X/2/5`**  | [go to report](./reports/2023-07-beedle)                               | 25/July/2023 - 29/July/2023        | _Beginner_      |
-| 🧠              | Escrow Contract                                                                                                    | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-07-escrow)                               | 23/July/2023 - 25/July/2023        | _Beginner_      |
-| Practice Audit | Stablecoin Pegged to $                                                                                             | **`X/X/X/X/X/X`**        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice) | 16/July/2023 - 22/July/2023        | _Beginner_      |
+| _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             |
+| -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- |
+| 🧑‍🤝‍🧑🟡           | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$X/X/X/X/X/X`**       | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
+| 🟡              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$X/X/X/X/X/X`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
+| 🧠              | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  |
+| 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                  | **`$340.13/1/X/1/X/X`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 |
+| 💵🔒             | ***Chainlink Staking v0.2***: staking feature to strengthen reliability by offering extra incentives | **`$367.34/X/X/9/X/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 |
+| 💵              | ***Sparkn***: Marketplace for problem solving deals                                                  | **`$19.88/X/X/1/X/X`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    |
+| 💵              | ***veRWA***: Voting-escrow incentivization model & Rewards Distribution                              | **`$9.82/X/X/1/X/4`**    | [go to report](./reports/2023-08-verwa)                                | 07/August/2023 - 10/August/2023    |
+| 💵              | Stablecoin Pegged to $                                                                               | **`$1.32/X/X/1/X/1`**    | [go to report](./reports/2023-07-foundry-defi-stablecoin)              | 29/July/2023 - 31/July/2023        |
+| 💵              | ***Beedle***: ERC20 Perpetual Lending Oracle-Free                                                    | **`$166.05/2/3/X/2/5`**  | [go to report](./reports/2023-07-beedle)                               | 25/July/2023 - 29/July/2023        |
+| 🧠              | Escrow Contract                                                                                      | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-07-escrow)                               | 23/July/2023 - 25/July/2023        |
+| Practice Audit | Stablecoin Pegged to $                                                                               | **`X/X/X/X/X/X`**        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice) | 16/July/2023 - 22/July/2023        |
 
 </details>
 
-|                                                                                                                                                              |                                                                                                                                                              |                                                                                                                                                                     |                                                                                                               |                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fwoofi.jpg&w=96&q=75" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Favail.png&w=96&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ocfw27qwcjzzd7ftoe8b?_a=BATAUVAA0" width="50"> | <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">                 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1692124967/company/mdsu3k5i2qjdx1sk1pav.png" width="50"> |  |
-| <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FVT6Se7uAcfK.0&w=96&q=75" width="50">    | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689007253/featured/zorxcgolkzoivtb5gubq.png" width="50">                                       | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_1.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/is0wiwcjnvzbnesiipsi?_a=BATAUVAA0" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width="50"> |                                                                                                                       |  |  |
+|                                                                                                                                                            |                                                                                                                                                              |                                                                                                                                                              |                                                                                                                                                                     |                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fvvv.jpg&w=96&q=75" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fwoofi.jpg&w=96&q=75" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Favail.png&w=96&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ocfw27qwcjzzd7ftoe8b?_a=BATAUVAA0" width="50"> | <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">                 |
+| <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1692124967/company/mdsu3k5i2qjdx1sk1pav.png" width="50">                                      | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FVT6Se7uAcfK.0&w=96&q=75" width="50">    | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689007253/featured/zorxcgolkzoivtb5gubq.png" width="50">                                       | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_1.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/is0wiwcjnvzbnesiipsi?_a=BATAUVAA0" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width="50"> |  |  |  |
+
+
+
 
 <hr/>
 <hr/>
