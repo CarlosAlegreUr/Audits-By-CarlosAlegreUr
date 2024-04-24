@@ -51,10 +51,11 @@ At **07/02/2024**:
 ##### `Keys 🗝️`
 
 <details> <summary> 🗝️ </summary>
-
+ 
+- 🧑‍⚖️ => **being judged**
 - 💵 => **rewards are known**
 - 🧠 => **found nothing valid but gained knowledge**
-- 🟡 => **being judged**
+- 0️⃣ => **no-one found valid, rewardable findings**
 - 🧑‍🤝‍🧑 => **audited in a team** 
 - 🔒 => **not allowed to share finding details**
  
@@ -64,10 +65,10 @@ At **07/02/2024**:
 
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             |
 | -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- |
-| 🧑‍🤝‍🧑🟡           | ***Panoptic***: options trading over UniV3 liquidity ranges                                          | **`$X/0/0/3/0/6`**       | [go to report](./reports/2024-04-panoptic/)                            | 1/April/2024 - 22/April/2024       |
-| 🧑‍🤝‍🧑🟡           | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$X/0/0/2/0/0`**       | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
-| 🟡              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$X/0/2/3/X/X`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
-| 🧠              | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  |
+| 🧑‍🤝‍🧑🧑‍⚖️           | ***Panoptic***: options trading over UniV3 liquidity ranges                                          | **`$X/0/0/3/0/6`**       | [go to report](./reports/2024-04-panoptic/)                            | 1/April/2024 - 22/April/2024       |
+| 🧑‍🤝‍🧑0️⃣🧑‍⚖️           | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$X/0/0/2/0/0`**       | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
+| 🧑‍⚖️              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$X/0/2/3/X/X`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
+| 🧠0️⃣              | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  |
 | 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                  | **`$340.13/1/X/1/X/X`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 |
 | 💵🔒             | ***Chainlink Staking v0.2***: staking feature to strengthen reliability by offering extra incentives | **`$367.34/X/X/9/X/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 |
 | 💵              | ***Sparkn***: Marketplace for problem solving deals                                                  | **`$19.88/X/X/1/X/X`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    |
