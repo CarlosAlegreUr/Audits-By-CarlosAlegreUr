@@ -1,8 +1,8 @@
 # Project ℹ️
 
-This project is made by the **`The Standard`** team. Its audit was part of an audit competition at codeHawks.
-
 🔗 [2023-12-the-standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)
+
+🔗 Competition details on codeHawks: [click here](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)
 
 According to the developers:
 
@@ -11,8 +11,6 @@ According to the developers:
 _`Secure your crypto assets, such as ETH, WBTC, ARB, LINK, & PAXG tokenized gold, in smart contracts that you control and no one else, then effortlessly borrow stablecoins with 0% interest loans and no time limit to pay back.`_
 
 ---
-
-Competition details on codeHawks: [click here](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)
 
 # Rewards Earned 💸🧠
 

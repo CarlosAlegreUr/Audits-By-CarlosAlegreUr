@@ -1,8 +1,8 @@
 # Project ℹ️
 
-This project is made by the **`CodeFox`** team. Its audit was part of an audit competition at CodeHawks.
-
 🔗 [2023-08-sparkn](https://github.com/Cyfrin/2023-08-sparkn)
+
+🔗 Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx)
 
 According to the developers:
 
@@ -11,8 +11,6 @@ According to the developers:
 _`The SPARKN protocol is a Web3 project that aims to build a marketplace for anyone who wants to solve their problems or anyone who wants to help solve problems. As a first step, we have created the protocol. The details of how to use the protocol is up to the users. This team is a graduate of the Foundry Full Course on YouTube with $15,000 up for grabs!`_
 
 ---
-
-Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx)
 
 # Rewards Earned 💸🧠
 

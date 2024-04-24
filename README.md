@@ -5,11 +5,11 @@
 
  | `Total Audits` 🛡️       | `Total Earnings` 💸 | `Time Spent 🕐 (at 31/03/2024)` |
  | ---------------------- | ------------------ | ------------------------------ |
- | **_`10 (2 judging)`_** | **_`$904.53$`_**   | **_`347.7h`_**                 |
+ | **_`11 (3 judging)`_** | **_`$904.53$`_**   | **_`441.2h`_**                 |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ |
 | ------------- | --------------- | ------------ | ------- | --------------------- |
-| 3             | 3               | 14           | 10      | 2                     |
+| 3             | 5               | 21           | 16      | 2                     |
 
 ##### `Detailed time spent stats 🕐`
 <details> <summary> 🕐📈 </summary> 
@@ -18,7 +18,7 @@ At **07/02/2024**:
 
 | `Contests` | `Private` | `Bug Bounty` | `Practice` | **`Total`**   |
 | ---------- | --------- | ------------ | ---------- | ------------- |
-| 321.2      | 0         | 0            | 36.5       | **`347.7 h`** |
+| 384.7      | 0         | 0            | 56.5       | **`441.2 h`** |
 
 > 📘 **Note** ℹ️: Practice means audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
 
@@ -60,13 +60,13 @@ At **07/02/2024**:
  
 </details>
 
-
 (from **most recent** to **oldest**)
 
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             |
 | -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- |
-| 🧑‍🤝‍🧑🟡           | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$X/X/X/X/X/X`**       | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
-| 🟡              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$X/X/X/X/X/X`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
+| 🧑‍🤝‍🧑🟡           | ***Panoptic***: options trading over UniV3 liquidity ranges                                          | **`$X/0/0/3/0/6`**       | [go to report](./reports/2024-04-panoptic/)                            | 1/April/2024 - 22/April/2024       |
+| 🧑‍🤝‍🧑🟡           | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$X/0/0/2/0/0`**       | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
+| 🟡              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$X/0/2/3/X/X`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
 | 🧠              | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  |
 | 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                  | **`$340.13/1/X/1/X/X`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 |
 | 💵🔒             | ***Chainlink Staking v0.2***: staking feature to strengthen reliability by offering extra incentives | **`$367.34/X/X/9/X/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 |
@@ -81,11 +81,9 @@ At **07/02/2024**:
 
 |                                                                                                                                                            |                                                                                                                                                              |                                                                                                                                                              |                                                                                                                                                                     |                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2Fve7mSg8Pcp2.0&w=96&q=75" width="50">  |                                                                                                                                                              |                                                                                                                                                              |                                                                                                                                                                     |                                                                                                               |
 | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fvvv.jpg&w=96&q=75" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fwoofi.jpg&w=96&q=75" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Favail.png&w=96&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ocfw27qwcjzzd7ftoe8b?_a=BATAUVAA0" width="50"> | <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">                 |
 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1692124967/company/mdsu3k5i2qjdx1sk1pav.png" width="50">                                      | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FVT6Se7uAcfK.0&w=96&q=75" width="50">    | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689007253/featured/zorxcgolkzoivtb5gubq.png" width="50">                                       | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_1.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/is0wiwcjnvzbnesiipsi?_a=BATAUVAA0" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width="50"> |  |  |  |
-
-
-
 
 <hr/>
 <hr/>
@@ -94,17 +92,35 @@ At **07/02/2024**:
 
 <details><summary> See them 👁️ </summary>
 
+### 🦄 Unique
+
+- [🔵 Low- A low worth 340.12$!](./reports/2023-12-the-standard/VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
+
+### 🤔 Controversial
+
+- [🟡 Medium - User receives less than mintTo limit, Sherlok Successful escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/97)
+
+- [🟡 Medium - User pays extra fees, Sherlok Long Ongoing Escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/95)
+ 
+### 🕵️ Feats
+
 - [⚫ Critical- My first critical, DOS cause of array size](./reports/2023-12-the-standard/VulnerabilitiesReport/Critical1-ArraysExceedGasLimit-CarlosAlegreUr.md)
 
 - [🔴 High- My first High, Decimals not handled properly](./reports/2023-07-beedle/Vulnerabilities-Reports/High1-Decimals-CarlosAlegreUr.md)
 
-- [🔵 Low- A low worth 340.12$!](./reports/2023-12-the-standard/VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
 - [⚪ Chainlink QA+LowRisk report grade A (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
 
+### ⚙️ Tricky
+
 - [🔵 Low- Low-level .call emits incorrect event](./reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)
-- [⚪ QA- Refactor of the codebase (chosen for report in codeHawks)](./reports/2023-07-beedle/QA-Reports/QA2-Refactor-CarlosAlegreUr.md)
+ 
+### 🩷 Beauty
+
 - [⚪🔵 QA-Low- Report Grade A for code4arena](./reports/2023-08-verwa/QALowRisk-Report-veRWA-CarlosAlegreUr.md)
+
 - [⛽ Gas- Compiler Flag Usage (looks pretty)](./reports/2023-07-beedle/Gas-Reports/Gas1-CompilerFlag-CarlosAlegreUr.md)
+
+- [⚪ QA- Refactor of the codebase (chosen for report in codeHawks)](./reports/2023-07-beedle/QA-Reports/QA2-Refactor-CarlosAlegreUr.md)
 
 </details>
 
@@ -115,9 +131,9 @@ At **07/02/2024**:
 
 > 📘 **Note** ℹ️: Audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
 
-|                                                                                                                                                                              |                                                                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FHK728fzERfV.0&w=96&q=75" width="50"> <p>zk-sync Era</p> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Farcadia.jpg&w=96&q=75" width="50"> <p>Arcadia V2</p> |
+|                                                                                                                                                                              |                                                                                                                                                                                  |                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FHK728fzERfV.0&w=96&q=75" width="50"> <p>zk-sync Era</p> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Farcadia.jpg&w=96&q=75" width="50"> <p>Arcadia V2</p> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FDfiqzUd3Mpd.0&w=96&q=75" width="50"> <p>Acala</p> |
 
 <hr/>
 <hr/>

@@ -1,8 +1,8 @@
 # Project ℹ️
 
-This project is made by the **`BeedleFi`** team. Its audit was part of an audit competition at CodeHawks.
-
 🔗 [2023-07-beedle](https://github.com/Cyfrin/2023-07-beedle)
+
+🔗 Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)
 
 According to the developers this project is:
 
@@ -11,8 +11,6 @@ According to the developers this project is:
 _`Oracle free peer to peer perpetual lending. Before diving into the codebase and this implementation of the Blend lending protocol, it is recommended that you read the original paper by Paradigm and Blur: https://www.paradigm.xyz/2023/05/blend#continuous-loans`_
 
 ---
-
-Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)
 
 # Rewards Earned 💸🧠
 

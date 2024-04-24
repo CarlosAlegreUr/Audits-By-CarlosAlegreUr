@@ -1,8 +1,8 @@
 # Project ℹ️
 
-This project is made by the **`Cyfrin`** team. Its audit was part of an audit competition at CodeHawks.
-
 🔗 [2023-07-escrow](https://github.com/Cyfrin/2023-07-escrow/tree/main)
+
+🔗 Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)
 
 According to the developers:
 
@@ -11,8 +11,6 @@ According to the developers:
 _`This project is meant to enable smart contract auditors (sellers) and smart contract protocols looking for audits (buyers) to connect using a credibly neutral option, with optional arbitration.`_
 
 ---
-
-Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)
 
 # Rewards Earned 💸🧠
 

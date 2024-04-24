@@ -1,8 +1,8 @@
 # Project ℹ️
 
-This project is made by the **`Avail`** blockchain team. Its audit was part of an audit competition at sherlok.
-
 🔗 [2023-12-avail](https://github.com/sherlock-audit/2023-12-avail)
+
+🔗 Competition details on sherlok: [click here](https://audits.sherlock.xyz/contests/146)
 
 According to the developers:
 
@@ -11,8 +11,6 @@ According to the developers:
 _`The essential base layer for modern blockchains.`_
 
 ---
-
-Competition details on sherlok: [click here](https://audits.sherlock.xyz/contests/146)
 
 # Rewards Earned 💸🧠
 
@@ -28,6 +26,4 @@ Competition details on sherlok: [click here](https://audits.sherlock.xyz/contest
 
 # _The reports_ 📝
 
-FOUND NOTHING
-
-
+***FOUND NOTHING***

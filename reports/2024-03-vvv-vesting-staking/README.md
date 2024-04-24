@@ -1,8 +1,8 @@
 # Project ℹ️
 
-This project is made by the **`vVv`** team. Its audit was part of an audit competition at sherlok.
-
 🔗 [2024-03-vvv-vesting-staking](https://github.com/sherlock-audit/2024-03-vvv-vesting-staking)
+
+🔗 Competition details on sherlok: [click here](https://audits.sherlock.xyz/contests/278)
 
 According to the developers:
 
@@ -11,8 +11,6 @@ According to the developers:
 _`vVv is the easiest way to gain exposure to the complete range of digital assets, including tokenized assets, real world assets, security tokens and cryptocurrencies`_
 
 ---
-
-Competition details on sherlok: [click here](https://audits.sherlock.xyz/contests/278)
 
 # Rewards Earned 💸🧠
 
@@ -29,8 +27,10 @@ Check the findings' reports I submitted:
 
 #### Medium 🟡
 
-- [🔗 Medium1-ValidUserStakingRewardsCanGetStuck](./Medium/Medium1-ValidUserStakingRewardsCanGetStuck.md)
-  
-- [🔗 Medium2-ExchangeRateIsFixed](./Medium/Medium2-ExchangeRateIsFixed.md)
+- [🔗 Medium3-VVVCanGetStuckInProtocolContracts](./Medium/Medium3-VVVCanGetStuckInProtocolContracts.md) (`Invalid`)
  
-- [🔗 Medium3-VVVCanGetStuckInProtocolContracts](./Medium/Medium3-VVVCanGetStuckInProtocolContracts.md)
+#### Low 🔵
+
+- [🔗 Medium1-ValidUserStakingRewardsCanGetStuck](./Medium/Medium1-ValidUserStakingRewardsCanGetStuck.md) (`Non-reward`: downgraded to **Low**)
+  
+- [🔗 Medium2-ExchangeRateIsFixed](./Medium/Medium2-ExchangeRateIsFixed.md) (`Non-reward`: downgraded to **Low**)
