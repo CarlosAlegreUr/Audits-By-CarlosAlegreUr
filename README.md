@@ -5,11 +5,11 @@
 
  | `Total Audits` 🛡️       | `Total Earnings` 💸 | `Time Spent 🕐 (at 24/04/2024)` |
  | ---------------------- | ------------------ | ------------------------------ |
- | **_`11 (3 judging)`_** | **_`$904.53$`_**   | **_`441.2h`_**                 |
+ | **_`11 (2 judging)`_** | **_`$4896.70$`_**   | **_`441.2h`_**                 |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ |
 | ------------- | --------------- | ------------ | ------- | --------------------- |
-| 3             | 5               | 21           | 16      | 2                     |
+| 3             | 6               | 21           | 16      | 2                     |
 
 ##### `Detailed time spent stats 🕐`
 <details> <summary> 🕐📈 </summary> 
@@ -67,16 +67,16 @@ At **07/02/2024**:
 | -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- |
 | 🧑‍🤝‍🧑🧑‍⚖️           | ***Panoptic***: options trading over UniV3 liquidity ranges                                          | **`$X/0/0/3/0/6`**       | [go to report](./reports/2024-04-panoptic/)                            | 1/April/2024 - 22/April/2024       |
 | 🧑‍🤝‍🧑0️⃣🧑‍⚖️           | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$X/0/0/2/0/0`**       | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
-| 🧑‍⚖️              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$X/0/2/3/X/X`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
+| 💵              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$3992.17/0/3/3/0/0`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
 | 🧠0️⃣              | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  |
-| 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                  | **`$340.13/1/X/1/X/X`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 |
-| 💵🔒             | ***Chainlink Staking v0.2***: staking feature to strengthen reliability by offering extra incentives | **`$367.34/X/X/9/X/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 |
-| 💵              | ***Sparkn***: Marketplace for problem solving deals                                                  | **`$19.88/X/X/1/X/X`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    |
-| 💵              | ***veRWA***: Voting-escrow incentivization model & Rewards Distribution                              | **`$9.82/X/X/1/X/4`**    | [go to report](./reports/2023-08-verwa)                                | 07/August/2023 - 10/August/2023    |
-| 💵              | Stablecoin Pegged to $                                                                               | **`$1.32/X/X/1/X/1`**    | [go to report](./reports/2023-07-foundry-defi-stablecoin)              | 29/July/2023 - 31/July/2023        |
-| 💵              | ***Beedle***: ERC20 Perpetual Lending Oracle-Free                                                    | **`$166.05/2/3/X/2/5`**  | [go to report](./reports/2023-07-beedle)                               | 25/July/2023 - 29/July/2023        |
+| 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                  | **`$340.13/1/0/1/0/0`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 |
+| 💵🔒             | ***Chainlink Staking v0.2***: staking feature to strengthen reliability by offering extra incentives | **`$367.34/0/0/9/0/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 |
+| 💵              | ***Sparkn***: Marketplace for problem solving deals                                                  | **`$19.88/0/0/1/0/0`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    |
+| 💵              | ***veRWA***: Voting-escrow incentivization model & Rewards Distribution                              | **`$9.82/0/0/1/0/4`**    | [go to report](./reports/2023-08-verwa)                                | 07/August/2023 - 10/August/2023    |
+| 💵              | Stablecoin Pegged to $                                                                               | **`$1.32/0/0/1/0/1`**    | [go to report](./reports/2023-07-foundry-defi-stablecoin)              | 29/July/2023 - 31/July/2023        |
+| 💵              | ***Beedle***: ERC20 Perpetual Lending Oracle-Free                                                    | **`$166.05/2/3/0/2/5`**  | [go to report](./reports/2023-07-beedle)                               | 25/July/2023 - 29/July/2023        |
 | 🧠              | Escrow Contract                                                                                      | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-07-escrow)                               | 23/July/2023 - 25/July/2023        |
-| Practice Audit | Stablecoin Pegged to $                                                                               | **`X/X/X/X/X/X`**        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice) | 16/July/2023 - 22/July/2023        |
+| Practice Audit | Stablecoin Pegged to $                                                                               | **`0/0/0/0/0/0`**        | [go to report](https://github.com/CarlosAlegreUr/AuditExamplePractice) | 16/July/2023 - 22/July/2023        |
 
 </details>
 
@@ -93,16 +93,14 @@ At **07/02/2024**:
 
 <details><summary> See them 👁️ </summary>
 
-### 🦄 Unique
+### 🦄 Unique && 🐴 semi-Unique
 
-- [🔵 Low- A low worth 340.12$!](./reports/2023-12-the-standard/VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
+- [🦄🟡 Medium - User pays extra fees, Sherlok Long Successful Escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/95)
+  
+- [🦄🔵 Low- A low worth 340.12$!](./reports/2023-12-the-standard/VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
 
-### 🤔 Controversial
+- [🐴🟡 Medium - User receives less than mintTo limit, Sherlok Successful escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/97)
 
-- [🟡 Medium - User receives less than mintTo limit, Sherlok Successful escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/97)
-
-- [🟡 Medium - User pays extra fees, Sherlok Long Ongoing Escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/95)
- 
 ### 🕵️ Feats
 
 - [⚫ Critical- My first critical, DOS cause of array size](./reports/2023-12-the-standard/VulnerabilitiesReport/Critical1-ArraysExceedGasLimit-CarlosAlegreUr.md)
