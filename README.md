@@ -5,7 +5,7 @@
 
  | `Total Audits` 🛡️       | `Total Earnings` 💸 | `Time Spent 🕐 (at 24/04/2024)` |
  | ---------------------- | ------------------ | ------------------------------ |
- | **_`11 (2 judging)`_** | **_`$4896.70$`_**   | **_`441.2h`_**                 |
+ | **_`11 (1 judging)`_** | **_`$5412.52$`_**  | **_`441.2h`_**                 |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ |
 | ------------- | --------------- | ------------ | ------- | --------------------- |
@@ -29,14 +29,15 @@ At **07/02/2024**:
 <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">
 
 
-## Rankings 🏆 (at 06/03/2024)
+## Rankings 🏆
 
 
-| `code4arena`                                                                                         | `codeHawks`                                                                                          | `solodit`                                                                                            |
-| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| <img src="https://pbs.twimg.com/profile_images/1631113162262183936/IV_fsyQ3_400x400.png" width="60"> | <img src="https://pbs.twimg.com/profile_images/1700276087320657920/TCQQve6f_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1706265953565106177/QGIZ9FKj_400x400.png" width="60"> |
-| \ **`TOP 13%`** auditors all time /                                                                  | \ **`TOP 100` auditors `Nº98`** /                                                                    | \ **`TOP 100` auditors `Nº93`** /                                                                    |
-| [See profile](https://code4rena.com/@carlos__alegre)                                                 | [See profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul)                           | [See profile](https://solodit.xyz/user/charles__cheerful)                                            |
+| `code4arena`                                                                                         | `codeHawks`                                                                                          | `sherlock`                                                                                           | `solodit`                                                                                            |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| <img src="https://pbs.twimg.com/profile_images/1631113162262183936/IV_fsyQ3_400x400.png" width="60"> | <img src="https://pbs.twimg.com/profile_images/1700276087320657920/TCQQve6f_400x400.jpg" width="60"> | <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.bf519c9e.svg" width="60">     | <img src="https://pbs.twimg.com/profile_images/1706265953565106177/QGIZ9FKj_400x400.png" width="60"> |
+| **`TOP ~13%`** registered wardens (08/05/2024)                                                            | **`TOP 100`** auditors **`Nº98`** (06/03/2024)                                                                     | **`Top ~10%`** Leaderboard (08/05/2024)                                                                         | **`TOP 100`** auditors **`Nº97`** (08/05/2024)                                                                    |
+| [See profile](https://code4rena.com/@carlos__alegre)                                                 | [See profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul)                           | [See profile](https://audits.sherlock.xyz/watson/charles__cheerful)                                  | [See profile](https://solodit.xyz/user/charles__cheerful)                                            |
+
 
 
 <hr/>
@@ -66,9 +67,9 @@ At **07/02/2024**:
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             |
 | -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- |
 | 🧑‍🤝‍🧑🧑‍⚖️           | ***Panoptic***: options trading over UniV3 liquidity ranges                                          | **`$X/0/0/3/0/6`**       | [go to report](./reports/2024-04-panoptic/)                            | 1/April/2024 - 22/April/2024       |
-| 🧑‍🤝‍🧑0️⃣🧑‍⚖️           | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$X/0/0/2/0/0`**       | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
-| 💵              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$3992.17/0/3/3/0/0`**       | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
-| 🧠0️⃣              | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  |
+| 🧑‍🤝‍🧑0️⃣💵          | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$515.82/0/0/2/0/0`**  | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
+| 💵              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$3992.17/0/3/3/0/0`** | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
+| 🧠0️⃣             | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  |
 | 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                  | **`$340.13/1/0/1/0/0`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 |
 | 💵🔒             | ***Chainlink Staking v0.2***: staking feature to strengthen reliability by offering extra incentives | **`$367.34/0/0/9/0/5`**  | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023 |
 | 💵              | ***Sparkn***: Marketplace for problem solving deals                                                  | **`$19.88/0/0/1/0/0`**   | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023    |
