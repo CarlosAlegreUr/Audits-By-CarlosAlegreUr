@@ -15,7 +15,7 @@ Competition details on **code4arena**: [click here](https://code4rena.com/audits
 # Rewards Earned 💸🧠
 
 - Experience and lots of knowledge. 😄
-- $0 💸 (But my teamate made 8K)
+- $0 💸 (My teamate made $8,126.32)
 
 # Lessons Learned 🧑‍💻
 
