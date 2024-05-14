@@ -15,7 +15,7 @@ _`vVv is the easiest way to gain exposure to the complete range of digital asset
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- JUDGING $ 💸
+- 515.82 $ 💸
 
 # Lessons Learned 🧑‍💻
 

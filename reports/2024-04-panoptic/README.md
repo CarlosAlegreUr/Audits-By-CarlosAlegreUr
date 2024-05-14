@@ -15,7 +15,7 @@ Competition details on **code4arena**: [click here](https://code4rena.com/audits
 # Rewards Earned 💸🧠
 
 - Experience and lots of knowledge. 😄
-- $JUDGING 💸
+- $0 💸 (But my teamate made 8K)
 
 # Lessons Learned 🧑‍💻
 
@@ -29,4 +29,4 @@ Competition details on **code4arena**: [click here](https://code4rena.com/audits
 
 Check the findings' reports I submitted:
 
-- [🔗 QA-LowRisk](./QA-LowRiskReport.md)
+- [🔗 QA-LowRisk](./QA-LowRiskReport.md) `Not awarded`

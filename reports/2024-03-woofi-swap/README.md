@@ -15,7 +15,7 @@ _`WOOFi is a cross-chain DEX where anyone can swap, stake, and earn crypto and t
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- JUDGING $ 💸
+- 3992.17 $ 💸
 
 # Lessons Learned 🧑‍💻
 
