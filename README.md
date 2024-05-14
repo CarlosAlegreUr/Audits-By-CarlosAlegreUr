@@ -57,7 +57,7 @@ At **07/02/2024**:
 - 💵 => **rewards are known**
 - 🧠 => **found nothing valid but gained knowledge**
 - 0️⃣ => **no-one found valid, rewardable findings**
-- 🧑‍🤝‍🧑 => **audited in a team** 
+- 🧑‍🤝‍🧑 => **audited in a team, (XXX$) -> total rewards of the team**
 - 🔒 => **not allowed to share finding details**
  
 </details>
@@ -66,8 +66,8 @@ At **07/02/2024**:
 
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_ | _Audit Reports_                                                        | _Date_                             |
 | -------------- | ---------------------------------------------------------------------------------------------------- | ------------------------ | ---------------------------------------------------------------------- | ---------------------------------- |
-| 🧑‍🤝‍🧑💵           | ***Panoptic***: options trading over UniV3 liquidity ranges                                          | **`$0/0/0/0/0/0`**       | [go to report](./reports/2024-04-panoptic/)                            | 1/April/2024 - 22/April/2024       |
-| 🧑‍🤝‍🧑0️⃣💵          | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$515.82/0/0/2/0/0`**  | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
+| 🧑‍🤝‍🧑💵           | ***Panoptic***: options trading over UniV3 liquidity ranges                                          | **`$0(8,126.32$)/0/0/0/0/0`**       | [go to report](./reports/2024-04-panoptic/)                            | 1/April/2024 - 22/April/2024       |
+| 🧑‍🤝‍🧑0️⃣💵          | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$515.82($515.82)/0/0/2/0/0`**  | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024      |
 | 💵              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$3992.17/0/3/3/0/0`** | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024      |
 | 🧠0️⃣             | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**       | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024  |
 | 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                  | **`$340.13/1/0/1/0/0`**  | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024 |
