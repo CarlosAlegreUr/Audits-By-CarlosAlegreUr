@@ -1,6 +1,6 @@
 # Project ℹ️
 
-🔗 [2023-12-the-standard](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)
+🔗 [2023-12-the-standard](https://github.com/Cyfrin/2023-12-the-standard)
 
 🔗 Competition details on codeHawks: [click here](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)
 

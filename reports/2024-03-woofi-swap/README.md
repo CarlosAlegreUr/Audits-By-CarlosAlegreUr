@@ -38,7 +38,7 @@ Check the findings' reports I submitted:
 
 - [🔗 Medium4-UsersPayExternalFeesWhenTheyShouldnt](./Medium/Medium4-UsersPayExternalFeesWhenTheyShouldnt.md)
 
-- [🔗 Medium5-CrossChainWETHSwapFeesChargedUnnecessarily](./Medium/Medium5-CrossChainWETHSwapFeesChargedUnnecessarily.md) (`Escalating`)
+- [🔗 Medium5-CrossChainWETHSwapFeesChargedUnnecessarily](./Medium/Medium5-CrossChainWETHSwapFeesChargedUnnecessarily.md)
 
 - [🔗 Medium6-UserReceivesLessThanMintToLimit](./Medium/Medium6-UserReceivesLessThanMintToLimit.md)
 
