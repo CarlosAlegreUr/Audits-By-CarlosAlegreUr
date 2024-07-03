@@ -29,4 +29,4 @@ Competition details on **code4arena**: [click here](https://code4rena.com/audits
 
 Check the findings' reports I submitted:
 
-- [🔗 QA-LowRisk](./QA-LowRiskReport.md) `Not awarded`
+- [🔗 QA-LowRisk](./QA-LowRiskReport.md) `Not awarded: I expected it though xd`

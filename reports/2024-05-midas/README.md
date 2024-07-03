@@ -2,7 +2,7 @@
 
 🔗 [2024-05-midas](https://github.com/sherlock-audit/2024-05-midas)
 
-🔗 Competition details on **sherlok**: [click here](https://audits.sherlock.xyz/contests/332)
+🔗 Competition details on **sherlock**: [click here](https://audits.sherlock.xyz/contests/332)
 
 According to the developers:
 
@@ -15,7 +15,7 @@ _`Midas is an asset tokenization protocol that issues tokenized real-world asset
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- JUDGING $ 💸
+- 69.66 $ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -27,8 +27,10 @@ Check the findings' reports I submitted:
 
 #### Medium 🟡
 
-- [🔗 Medium1-ChainlinkChecksAreInsufficient&Incorrect](./Medium/Medium1-ChainlinkChecksAreIncorrect.md)
-
-- [🔗 Medium2-DecimalInconsistencyBreaksMinDeposit](./Medium/Medium2-DecimalsBreakMinDepositCheck.md)
-
 - [🔗 Medium3-CorruptableStorageOnUpgrade](./Medium/Medium3-CorruptableStorageGapsOnUpgrade.md)
+ 
+- [🔗 Medium2-DecimalInconsistencyBreaksMinDeposit](./Medium/Medium2-DecimalsBreakMinDepositCheck.md) (`Invalid: handled off-chain`)
+ 
+#### Low 🔵
+
+- [🔗 Medium1-ChainlinkChecksAreInsufficient&Incorrect](./Medium/Medium1-ChainlinkChecksAreIncorrect.md) (`Invalid: Downgraded to low, handled off-chain`)

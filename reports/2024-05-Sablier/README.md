@@ -15,7 +15,7 @@ _`Sablier is a permissionless token distribution protocol for ERC-20 assets. It 
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- JUDGING$ 💸
+- 0$ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -27,5 +27,5 @@ Check the findings' reports I submitted:
 
 #### Medium 🟡
 
-- [🔗 Medium1-CampaignAdminTransferIsTooWeak](./Medium1-CampaingAdminTransferIsTooWeak.md)
-- [🔗 Medium2-BugWontFrozenStreamFunds](./Medium2-BugWontFrozenStreamedFunds.md)
+- [🔗 Medium1-CampaignAdminTransferIsTooWeak](./Medium1-CampaingAdminTransferIsTooWeak.md) (`Invalid: Informational`)
+- [🔗 Medium2-BugWontFrozenStreamFunds](./Medium2-BugWontFrozenStreamedFunds.md) (`Invalid: Design choice`)
