@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2024-05-midas](https://github.com/sherlock-audit/2024-05-midas)
 
 🔗 Competition details on **sherlock**: [click here](https://audits.sherlock.xyz/contests/332)
@@ -20,6 +22,8 @@ _`Midas is an asset tokenization protocol that issues tokenized real-world asset
 # Lessons Learned 🧑‍💻
 
 - Be aware of different posible natures of real world asset and its tokenized verions. (like some stock can be divided more in chain than in real world)
+ 
+</details>
 
 # _The reports_ 📝
 

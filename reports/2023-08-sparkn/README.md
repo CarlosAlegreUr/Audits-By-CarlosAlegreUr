@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2023-08-sparkn](https://github.com/Cyfrin/2023-08-sparkn)
 
 🔗 Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx)
@@ -24,6 +26,8 @@ _`The SPARKN protocol is a Web3 project that aims to build a marketplace for any
 - Address 0x40 meaning. Free memory pointer.
 - vm.label() in forge testing
 - Details on func selector clashes on proxies.
+
+</details>
 
 # _The reports_ 📝
 

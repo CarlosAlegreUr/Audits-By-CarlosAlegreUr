@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2023-12-the-standard](https://github.com/Cyfrin/2023-12-the-standard)
 
 🔗 Competition details on codeHawks: [click here](https://www.codehawks.com/contests/clql6lvyu0001mnje1xpqcuvl)
@@ -22,6 +24,8 @@ _`Secure your crypto assets, such as ETH, WBTC, ARB, LINK, & PAXG tokenized gold
 - Re-read in detail different types of poxies: beacon, UUPS, transparent.
 - Learned some differences between OZ contracts v.4.8 and v.5.0.
 - Revised liquidation concepts I had a bit of rust on, like buy asset at a discount. 
+
+</details>
 
 # _The reports_ 📝
 

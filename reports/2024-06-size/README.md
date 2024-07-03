@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2024-06-size](https://github.com/code-423n4/2024-06-size)
 
 ---
@@ -18,6 +20,8 @@ Competition details on **code4arena**: [click here](https://code4rena.com/audits
 # Lessons Learned 🧑‍💻
 
 - Experience, better personal workflows.
+ 
+</details>
 
 # _The reports_ 📝
 

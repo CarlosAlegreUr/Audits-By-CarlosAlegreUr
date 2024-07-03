@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2024-04-panoptic](https://github.com/code-423n4/2024-04-panoptic)
 
 According to the developers:
@@ -24,6 +26,8 @@ Competition details on **code4arena**: [click here](https://code4rena.com/audits
 - Delve deepr into Uniswap V3 interface and range orders.
 
 - Better techiques to audit solo and in team 5K nSLOC codebases.
+
+</details>
 
 # _The reports_ 📝
 

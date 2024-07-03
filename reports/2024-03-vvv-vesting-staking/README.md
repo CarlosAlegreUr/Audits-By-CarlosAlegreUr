@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2024-03-vvv-vesting-staking](https://github.com/sherlock-audit/2024-03-vvv-vesting-staking)
 
 🔗 Competition details on sherlok: [click here](https://audits.sherlock.xyz/contests/278)
@@ -20,6 +22,8 @@ _`vVv is the easiest way to gain exposure to the complete range of digital asset
 # Lessons Learned 🧑‍💻
 
 - Vesting logic contracts.
+ 
+</details>
 
 # _The reports_ 📝
 

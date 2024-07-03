@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2023-07-foundry-defi-stablecoin](https://github.com/Cyfrin/2023-07-foundry-defi-stablecoin) 
 
 🔗 Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0)
@@ -21,6 +23,8 @@ _`This project is meant to be a stablecoin where users can deposit WETH and WBTC
 
 - Stablecoin stability mechanisms.
 - ERC20 tokens's decimal precision management.
+
+</details>
 
 # _The reports_ 📝
 

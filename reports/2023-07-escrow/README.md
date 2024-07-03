@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2023-07-escrow](https://github.com/Cyfrin/2023-07-escrow/tree/main)
 
 🔗 Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/cljyfxlc40003jq082s0wemya)
@@ -23,6 +25,8 @@ _`This project is meant to enable smart contract auditors (sellers) and smart co
 - Security measures for contracts that deploy other contracts.
 - What SafeERC20 library fom OpenZeppelin handles.
 - via_ir compiler.
+ 
+</details>
 
 # _The reports_ 📝
 

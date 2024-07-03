@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2024-05-Sablier](https://github.com/Cyfrin/2024-05-Sablier)
 
 🔗 Competition details on CodeHawks: [click here](https://www.codehawks.com/contests/clvb9njmy00012dqjyaavpl44)
@@ -20,6 +22,8 @@ _`Sablier is a permissionless token distribution protocol for ERC-20 assets. It 
 # Lessons Learned 🧑‍💻
 
 - Experience.
+
+</details>
 
 # _The reports_ 📝
 

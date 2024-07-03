@@ -1,5 +1,7 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary> 
+
 🔗 [2023-07-beedle](https://github.com/Cyfrin/2023-07-beedle)
 
 🔗 Competition details on 🦅CodeHawks🦅: [click here](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx)
@@ -21,6 +23,8 @@ _`Oracle free peer to peer perpetual lending. Before diving into the codebase an
 
 - Undestanding of perpetual lending with NFT collateral systems (Paradigm and Blur).
 - A perpetual oracle-less ER20 lending schema.
+ 
+</details>
 
 # _The reports_ 📝
 

@@ -1,8 +1,10 @@
 # Project ℹ️
 
+<details> <summary> See summary info 👁️ℹ️ </summary>
+
 🔗 [2024-03-woofi-swap](https://github.com/sherlock-audit/2024-03-woofi-swap)
 
-🔗 Competition details on **sherlok**: [click here](https://audits.sherlock.xyz/contests/277)
+🔗 Competition details on **sherlock**: [click here](https://audits.sherlock.xyz/contests/277)
 
 According to the developers:
 
@@ -22,9 +24,9 @@ _`WOOFi is a cross-chain DEX where anyone can swap, stake, and earn crypto and t
 - A different algorithm for MM rather than AMM, PMM and sPMM whih is specific for the project.
 - How Routers and DEXEs actually deeply work.
 
-# _The reports_ 📝
+</details>
 
-Check the findings' reports I submitted:
+# _The reports_ 📝
 
 #### High 🔴
 
