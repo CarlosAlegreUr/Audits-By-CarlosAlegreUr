@@ -1,7 +1,7 @@
 
 # Controversy 😮‍💨
 
-I could no put much effort in this audit. Yet I think the results are quite unfair.
+I could not put much effort in this audit. Yet I think the results are quite unfair.
 
 1️⃣ I though of issue `H-01` in [the report](https://codehawks.cyfrin.io/c/2024-07-templegold/results?lt=contest&page=1&sc=reward&sj=reward&t=report) about the cross-chain bridge being incomaptible with some kind of wallets. But I did not submit it because I deemed it `Informational` and design choice, yet the judge decided to label it as `High`.
 
