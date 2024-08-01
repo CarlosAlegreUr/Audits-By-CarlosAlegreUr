@@ -15,7 +15,7 @@ Competition details on **code4arena**: [click here](https://code4rena.com/audits
 # Rewards Earned 💸🧠
 
 - Experience and lots of knowledge. 😄
-- $JUDGING 💸
+- $78.97 💸
 
 # Lessons Learned 🧑‍💻
 
