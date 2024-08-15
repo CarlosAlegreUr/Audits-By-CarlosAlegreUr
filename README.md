@@ -1,9 +1,13 @@
 <hr/>
 <hr/>
 
-[link test](#rankings-)
+# [General Stats 📈](#general-stats) - [Rankings 🏆](#rankings-) - [Audits List 📓](#audits-list) - [Cool Findings 🕵️](#interesting-findings)
+
+<hr/>
+<hr/>
 
 # General Stats 📈
+<p id="general-stats"> </p>
 
  | `Total Audits` 🛡️ | `Total Earnings` 💸 | `Time Spent 🕐 (at 01/08/2024)` |
  | ---------------- | ------------------ | ------------------------------ |
@@ -44,6 +48,7 @@ At **13/08/2024**:
 <hr/>
 
 # Audits List 📓
+<p id="audits-list"> </p>
 
 <details><summary> See detailed info 🔍👁️ </summary>
 
@@ -101,6 +106,7 @@ At **13/08/2024**:
 <hr/>
 
 # Interesting Findings 🕵️
+<p id="interesting-findings"> </p>
 
 <details><summary> See them 👁️ </summary>
 
