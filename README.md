@@ -1,13 +1,15 @@
 <hr/>
 <hr/>
 
-# [General Stats 📈](#general-stats) - [Rankings 🏆](#rankings-) - [Audits List 📓](#audits-list) - [Cool Findings 🕵️](#interesting-findings)
+# [General Stats 📈](#general-stats) - [Rankings 🏆](#rankings)  
+# [Audits List 📓](#audits-list) - [Interesting Findings 🕵️](#interesting-findings)
 
 <hr/>
 <hr/>
+
+<p id="general-stats"> </p>
 
 # General Stats 📈
-<p id="general-stats"> </p>
 
  | `Total Audits` 🛡️ | `Total Earnings` 💸 | `Time Spent 🕐 (at 01/08/2024)` |
  | ---------------- | ------------------ | ------------------------------ |
@@ -30,13 +32,12 @@ At **13/08/2024**:
 
 </details>
 
-## Big Names Audited 🤓
+<hr/>
+<hr/>
 
-<img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">
-
-
-## Rankings 🏆
 <p id="rankings"> </p>
+
+# Rankings 🏆
 
 | `code4arena`                                                                                         | `codeHawks`                                                                                          | `sherlock`                                                                                           | `solodit`                                                                                            |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -47,8 +48,9 @@ At **13/08/2024**:
 <hr/>
 <hr/>
 
-# Audits List 📓
 <p id="audits-list"> </p>
+
+# Audits List 📓
 
 <details><summary> See detailed info 🔍👁️ </summary>
 
@@ -105,8 +107,9 @@ At **13/08/2024**:
 <hr/>
 <hr/>
 
-# Interesting Findings 🕵️
 <p id="interesting-findings"> </p>
+
+# Interesting Findings 🕵️
 
 <details><summary> See them 👁️ </summary>
 
