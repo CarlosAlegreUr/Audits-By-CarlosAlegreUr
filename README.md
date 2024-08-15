@@ -132,27 +132,19 @@ At **13/08/2024**:
 
 </details>
 
-### 🕵️ Feats
+###  Miscellaneous 🎨
 
-<details> <summary> See them 👁️🕵️ </summary> 
+<details> <summary> See them 👁️🎨 </summary> 
 
 - [⚫ Critical- My first critical, DOS cause of array size](./reports/2023-12-the-standard/VulnerabilitiesReport/Critical1-ArraysExceedGasLimit-CarlosAlegreUr.md)
 
 - [🔴 High- My first High, Decimals not handled properly](./reports/2023-07-beedle/Vulnerabilities-Reports/High1-Decimals-CarlosAlegreUr.md)
 
-- [⚪ Chainlink QA+LowRisk report grade A (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
+- [⚪ Chainlink QA+LowRisk report grade A. I was proud of getting grade A on a famous bussines's code in my firsts audits. (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
 
-</details>
+- [🔵 Low- Low-level .call emits incorrect event. I was proud of realizing this, it was tricky for me at that time.](./reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)
 
-### ⚙️ Tricky
-
-<details> <summary> See them 👁️⚙️ </summary> 
-
-- [🔵 Low- Low-level .call emits incorrect event](./reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)
-
-</details>
- 
-### 🩷 Beauty
+### 🩷 Pretty
 
 <details> <summary> See them 👁️🩷 </summary> 
 
@@ -164,10 +156,12 @@ At **13/08/2024**:
 
 </details>
 
+</details>
+
 <hr/>
 <hr/>
 
-# Practice Audits 📓
+## Practice Audits 📓
 
 > 📘 **Note** ℹ️: Audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
 
