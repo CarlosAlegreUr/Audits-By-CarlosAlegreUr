@@ -111,22 +111,30 @@ At **13/08/2024**:
 
 # Interesting Findings 🕵️
 
-<details><summary> See them 👁️ </summary>
-
 ### 🦄 Unique && 🐴 semi-Unique
+
+<details> <summary> See them 👁️🦄🐴 </summary> 
 
 - [🦄🟡 Medium - User pays extra fees, Sherlok Long Successful Escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/95)
   
 - [🦄🔵 Low- A low worth 340.12$!](./reports/2023-12-the-standard/VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
 
 - [🐴🟡 Medium - User receives less than mintTo limit, Sherlok Successful escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/97)
+
+</details>
  
 ### 🤔 Controversial
+
+<details> <summary> See them 👁️🤔 </summary> 
 
 - Controversy in `Midas` contest, [see here](./reports/2024-05-midas/controversy.md).
 - Controversy in `TempleGold` contest, [see here](./reports/2024-07-templegold/controversy.md).
 
+</details>
+
 ### 🕵️ Feats
+
+<details> <summary> See them 👁️🕵️ </summary> 
 
 - [⚫ Critical- My first critical, DOS cause of array size](./reports/2023-12-the-standard/VulnerabilitiesReport/Critical1-ArraysExceedGasLimit-CarlosAlegreUr.md)
 
@@ -134,11 +142,19 @@ At **13/08/2024**:
 
 - [⚪ Chainlink QA+LowRisk report grade A (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
 
+</details>
+
 ### ⚙️ Tricky
 
+<details> <summary> See them 👁️⚙️ </summary> 
+
 - [🔵 Low- Low-level .call emits incorrect event](./reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)
+
+</details>
  
 ### 🩷 Beauty
+
+<details> <summary> See them 👁️🩷 </summary> 
 
 - [⚪🔵 QA-Low- Report Grade A for code4arena](./reports/2023-08-verwa/QALowRisk-Report-veRWA-CarlosAlegreUr.md)
 
