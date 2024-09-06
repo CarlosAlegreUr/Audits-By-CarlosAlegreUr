@@ -11,13 +11,13 @@
 
 # General Stats 📈
 
- | `Total Audits` 🛡️ | `Total Earnings` 💸 | `Time Spent 🕐 (at 20/08/2024)` |
+ | `Total Audits` 🛡️ | `Total Earnings` 💸 | `Time Spent 🕐 (at 06/09/2024)` |
  | ---------------- | ------------------ | ------------------------------ |
- | **_`17`_**       | **_`$5561.15$`_**  | **_`639.11h`_**                |
+ | **_`18`_**       | **_`$5561.15$`_**  | **_`661.29h`_**                |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | _QAs_ 🌐 | _Gas Optimizaition_ ⛽ |
 | ------------- | --------------- | ------------ | ------- | --------------------- |
-| 5 (+7+4?)       | 9 (+6+2?)         | 18 (+5?)     | 15      | 2                     |
+| 5 (+7+4+4?)       | 9 (+6+2+7?)         | 18 (+5+4?)     | 15      | 2                     |
 
 ##### `Detailed time spent stats 🕐`
 <details> <summary> 🕐📈 </summary> 
@@ -26,7 +26,7 @@ At **13/08/2024**:
 
 | `Contests` | `Private` | `Bug Bounty` | `Practice` | **`Total`**    |
 | ---------- | --------- | ------------ | ---------- | -------------- |
-| 582.61     | 0         | 0            | 56.5       | **`639.11 h`** |
+| 604.79     | 0         | 0            | 56.5       | **`661.29 h`** |
 
 > 📘 **Note** ℹ️: Practice means audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
 
@@ -75,6 +75,7 @@ At **13/08/2024**:
 
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_         | _Audit Reports_                                                        | _Date_                             |
 | -------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------- | ---------------------------------- |
+| 🧑‍⚖️              | ***Zeta-Chain***: universal hub chain                                                         | **`$0/0/0/0/0/0`**               | [go to report](./reports/2024-08-zetta-chain/)                               | 19/August/2024 - 04/September/2024    |
 | 🧑‍⚖️              | ***Winnables-Raffles***: raffles using  Chainlink VRF and CCIP                                                         | **`$0/0/0/0/0/0`**               | [go to report](./reports/2024-08-winnables-raffles/)                               | 16/August/2024 - 20/August/2024    |
 | 🧑‍⚖️              | ***Tadle***: marketplace of pre-sale tokens                                                          | **`$0/0/0/0/0/0`**               | [go to report](./reports/2024-08-tadle/)                               | 05/August/2024 - 12/August/2024    |
 | 🧠😵🤔            | ***TempleGold***: stock for farming rewards from TempleDAO                                           | **`$0/0/0/0/0/0`**               | [go to report](./reports/2024-07-templegold/)                          | 04/July/2024 - 11/July/2024        |
@@ -100,7 +101,7 @@ At **13/08/2024**:
 
 |                         |                         |                         |                         |                         |
 | ----------------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |
-| <img src="" alt="filler" width="50"> | <img src="" alt="filler" width="50"> | <img src="" alt="filler" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fwinnnables.jpg&w=64&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/crvpf3cxfjpqwwsufnif?_a=DATAfRAAZAA0" width="50"> |
+| <img src="" alt="filler" width="50"> | <img src="" alt="filler" width="50"> | <img src="https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/3966feda-db4d-4a56-5b1a-71858b32e000/public" alt="filler" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fwinnnables.jpg&w=64&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/crvpf3cxfjpqwwsufnif?_a=DATAfRAAZAA0" width="50"> |
 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ovmmfbu9hgikanujugqr?_a=DATAdtAAZAA0" width="50"> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fcode4-api-v0-public-storage.s3.us-east-1.amazonaws.com%2Fupload-Q5SKk7YnfwH&w=96&q=75&dpl=dpl_64wso2S2o5WR2k9t1fvFqLigwBJY" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fmidas.png&w=64&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_1.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/tiyiiu6e4hib55p0tm3m?_a=BATAUVAA0" width="50"> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2Fve7mSg8Pcp2.0&w=96&q=75" width="50"> |
 | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fvvv.jpg&w=96&q=75" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fwoofi.jpg&w=96&q=75" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Favail.png&w=96&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ocfw27qwcjzzd7ftoe8b?_a=BATAUVAA0" width="50"> | <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50"> |
 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1692124967/company/mdsu3k5i2qjdx1sk1pav.png" width="50"> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FVT6Se7uAcfK.0&w=96&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689007253/featured/zorxcgolkzoivtb5gubq.png" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_1.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/is0wiwcjnvzbnesiipsi?_a=BATAUVAA0" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width="50"> |
