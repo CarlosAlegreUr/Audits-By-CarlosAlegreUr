@@ -17,7 +17,7 @@ _`Tadle offers decentralized pre-market infrastructure facilitating the bridging
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- JUDGING$ 💸
+- 489$ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -32,26 +32,28 @@ Check the findings' reports I submitted:
 #### High 🔴
 
 - [🔗 High1-CapitalPoolDrainedWithWithdrawals](./High/High1-CapitalPoolDrainedWithWithdrawals.md)
-- [🔗 High2-WithdrawAlwaysReverts](./High/High2-WithdrawAlwaysReverts.md)
+- [🔗 High2-WithdrawAlwaysReverts](./High/High2-WithdrawAlwaysReverts.md)  (`Seem like I forgot to submit it xd`)
 - [🔗 High3-ApprovalForPoolCapitalPoolIsWrong](./High/High3-ApprovalForPoolCapitalPoolIsWrong.md)
 - [🔗 High4-TokenAmountTrasnferredAsCollateral](./High/High4-TokenAmountTrasnferredAsCollateral.md)
 - [🔗 High5-FeesAndTaxesCanBeSkipped](./High/High5-FeesAndTaxesCanBeSkipped.md)
 - [🔗 High6-TurboResellersCanGetFreeCollateral](./High/High6-TurboResellersCanGetFreeCollateral.md)
 - [🔗 High7-UnitsInAbortTransferAreWrong](./High/High7-UnitsInAbortTransferAreWrong.md)
+  
+- [🔗 Medium6-IfAskTakerBidderSetsAndItsWrong](./Medium/Medium6-IfAskTakerBidderSetsAndItsWrong.md) (`Valid: Upgraded to High`)
 
 #### Medium 🟡
 
 - [🔗 Medium1-FeeOnTransferERC20sRevert](./Medium/Medium1-FeeOnTransferERC20sRevert.md)
-- [🔗 Medium2-SettlingTokensIncentivesDoNotExist](./Medium/Medium2-SettlingTokensIncentivesDoNotExist.md)
-- [🔗 Medium3-3OfferStatesAreNotUsed](./Medium/Medium3-3OfferStatesAreNotUsed.md)
-- [🔗 Medium4-VirginStatusIncorrect](./Medium/Medium4-VirginStatusIncorrect.md)
-- [🔗 Medium5-UpgradesShouldGiveUsersTimeToReact](./Medium/Medium5-UpgradesShouldGiveUsersTimeToReact.md)
-- [🔗 Medium6-IfAskTakerBidderSetsAndItsWrong](./Medium/Medium6-IfAskTakerBidderSetsAndItsWrong.md)
+- [🔗 Medium2-SettlingTokensIncentivesDoNotExist](./Medium/Medium2-SettlingTokensIncentivesDoNotExist.md) (`Invalid: design choice`)
+- [🔗 Medium5-UpgradesShouldGiveUsersTimeToReact](./Medium/Medium5-UpgradesShouldGiveUsersTimeToReact.md) (`Invalid: trusted admin`)
 
 #### Low 🔵
 
-- [🔗 Low1-TokensCanGetStuckForever](./Low/Low1-TokensCanGetStuckForever.md)
-- [🔗 Low2-InterfacesAreIncomplete](./Low/Low2-InterfacesAreIncomplete.md)
+- [🔗 Low1-TokensCanGetStuckForever](./Low/Low1-TokensCanGetStuckForever.md) (`Invalid: informational`)
+- [🔗 Low2-InterfacesAreIncomplete](./Low/Low2-InterfacesAreIncomplete.md) (`Invalid: informational`)
 - [🔗 Low3-OfferIdIncreaseLogicIsWrong](./Low/Low3-OfferIdIncreaseLogicIsWrong.md)
 - [🔗 Low4-RefundCollateralTrackedAsSalesRevenue](./Low/Low4-RefundCollateralTrackedAsSalesRevenue.md)
-- [🔗 Low5-GuardianAddressIsVeryWeak](./Low/Low5-GuardianAddressIsVeryWeak.md)
+- [🔗 Low5-GuardianAddressIsVeryWeak](./Low/Low5-GuardianAddressIsVeryWeak.md) (`Invalid: informational`)
+ 
+- [🔗 Medium3-3OfferStatesAreNotUsed](./Medium/Medium3-3OfferStatesAreNotUsed.md) (`Valid: dowgraded to Low`)
+- [🔗 Medium4-VirginStatusIncorrect](./Medium/Medium4-VirginStatusIncorrect.md) (`Valid: dowgraded to Low`)

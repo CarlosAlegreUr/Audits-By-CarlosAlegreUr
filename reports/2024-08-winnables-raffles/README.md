@@ -17,7 +17,7 @@ _`Winnables is a cutting-edge decentralized raffle platform (transparent and fai
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- Judging $ 💸
+- 35.98 $ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -38,9 +38,9 @@ Check the findings' reports I submitted:
 
 - [🔗 High1-RefundBadAccountingLocksTokens](./High1-RefundBadAccountingLocksTokens.md)
 
-- [🔗 High2-AccountAbstractionWalletCantClaimPrize](./High2-AccountAbstractionWalletCantClaimPrize.md)
+- [🔗 High2-AccountAbstractionWalletCantClaimPrize](./High2-AccountAbstractionWalletCantClaimPrize.md) (`Invalid: Downgraded-Low`)
 
-- [🔗 High3-UnabilityToReSendCCIPRisksFrozenFunds](./High3-UnabilityToReSendCCIPRisksFrozenFunds.md)
+- [🔗 High3-UnabilityToReSendCCIPRisksFrozenFunds](./High3-UnabilityToReSendCCIPRisksFrozenFunds.md) (`Invalid: I disagree`)
 
 #### Medium 🟡
 
