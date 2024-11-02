@@ -2,22 +2,22 @@
 
 <details> <summary> See summary info 👁️ℹ️ </summary>
 
-🔗 [2024-08-tadle](https://github.com/Cyfrin/2024-08-tadle)
+🔗 [2024-09-stakelink](https://github.com/Cyfrin/2024-09-stakelink)
 
-🔗 Competition details on CodeHawks: [click here](https://codehawks.cyfrin.io/c/2024-08-tadle)
+🔗 Competition details on CodeHawks: [click here](https://codehawks.cyfrin.io/c/2024-09-stakelink)
 
 According to the developers:
 
 ---
 
-_`Tadle offers decentralized pre-market infrastructure facilitating the bridging of liquidity between primary and secondary financial markets!`_
+_`stake.link is a first-of-its-kind liquid delegated staking platform delivering DeFi composability for Chainlink Staking. Built by premier Chainlink ecosystem developer LinkPool, powered by Chainlink node operators, and governed by the stake.link DAO, stake.link's extensible architecture is purpose-built to support Chainlink Staking and to extend participation in the Chainlink Network.`_
 
 ---
 
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- 489$ 💸
+- Judging $ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -29,31 +29,27 @@ _`Tadle offers decentralized pre-market infrastructure facilitating the bridging
 
 Check the findings' reports I submitted:
 
+#### Critical ⚫
+
+- [🔗 Critical1-AnyonCanForfeitSystemsRewards](./Critical/Critical1-AnyonCanForfeitSystemsRewards.md)
+
 #### High 🔴
 
-- [🔗 High1-CapitalPoolDrainedWithWithdrawals](./High/High1-CapitalPoolDrainedWithWithdrawals.md)
-- [🔗 High2-WithdrawAlwaysReverts](./High/High2-WithdrawAlwaysReverts.md)  (`Seem like I forgot to submit it xd`)
-- [🔗 High3-ApprovalForPoolCapitalPoolIsWrong](./High/High3-ApprovalForPoolCapitalPoolIsWrong.md)
-- [🔗 High4-TokenAmountTrasnferredAsCollateral](./High/High4-TokenAmountTrasnferredAsCollateral.md)
-- [🔗 High5-FeesAndTaxesCanBeSkipped](./High/High5-FeesAndTaxesCanBeSkipped.md)
-- [🔗 High6-TurboResellersCanGetFreeCollateral](./High/High6-TurboResellersCanGetFreeCollateral.md)
-- [🔗 High7-UnitsInAbortTransferAreWrong](./High/High7-UnitsInAbortTransferAreWrong.md)
-  
-- [🔗 Medium6-IfAskTakerBidderSetsAndItsWrong](./Medium/Medium6-IfAskTakerBidderSetsAndItsWrong.md) (`Valid: Upgraded to High`)
+- [🔗 High1-NoTransferFunctionInOperatorStakingPool](./High/High1-NoTransferFunctionInOperatorStakingPool.md)
 
 #### Medium 🟡
 
-- [🔗 Medium1-FeeOnTransferERC20sRevert](./Medium/Medium1-FeeOnTransferERC20sRevert.md)
-- [🔗 Medium2-SettlingTokensIncentivesDoNotExist](./Medium/Medium2-SettlingTokensIncentivesDoNotExist.md) (`Invalid: design choice`)
-- [🔗 Medium5-UpgradesShouldGiveUsersTimeToReact](./Medium/Medium5-UpgradesShouldGiveUsersTimeToReact.md) (`Invalid: trusted admin`)
+- [🔗 Medium1-TheSystemUnderminesCLStakingIncetives](./Medium/Medium1-TheSystemUnderminesCLStakingIncetives.md)
+- [🔗 Medium2-VCSUnsafeProxyUpgrades](./Medium/Medium2-VCSUnsafeProxyUpgrades.md)
+- [🔗 Medium3-V1OperatorsCantMigrate](./Medium/Medium3-V1OperatorsCantMigrate.md)
+- [🔗 Medium4-UpkeepInWithdrawalPoolIsBroken](./Medium/Medium4-UpkeepInWithdrawalPoolIsBroken.md)
+- [🔗 Medium5-SandwichStealsDepositRoom](./Medium/Medium5-SandwichStealsDepositRoom.md)
+- [🔗 Medium6-IncorrectGroupCalulationInOperatorVCSDuringRemoval](./Medium/Medium6-IncorrectGroupCalulationInOperatorVCSDuringRemoval.md)
+- [🔗 Medium7-WithdrawalsWithdrawMoreThanSpecified](./Medium/Medium7-WithdrawalsWithdrawMoreThanSpecified.md)
 
 #### Low 🔵
 
-- [🔗 Low1-TokensCanGetStuckForever](./Low/Low1-TokensCanGetStuckForever.md) (`Invalid: informational`)
-- [🔗 Low2-InterfacesAreIncomplete](./Low/Low2-InterfacesAreIncomplete.md) (`Invalid: informational`)
-- [🔗 Low3-OfferIdIncreaseLogicIsWrong](./Low/Low3-OfferIdIncreaseLogicIsWrong.md)
-- [🔗 Low4-RefundCollateralTrackedAsSalesRevenue](./Low/Low4-RefundCollateralTrackedAsSalesRevenue.md)
-- [🔗 Low5-GuardianAddressIsVeryWeak](./Low/Low5-GuardianAddressIsVeryWeak.md) (`Invalid: informational`)
- 
-- [🔗 Medium3-3OfferStatesAreNotUsed](./Medium/Medium3-3OfferStatesAreNotUsed.md) (`Valid: dowgraded to Low`)
-- [🔗 Medium4-VirginStatusIncorrect](./Medium/Medium4-VirginStatusIncorrect.md) (`Valid: dowgraded to Low`)
+- [🔗 Low1-SystemWontWorkInMainnet](./Low/Low1-SystemWontWorkInMainnet.md)
+- [🔗 Low2-MultiStrategyWithdrawalsCanRevert](./Low/Low2-MultiStrategyWithdrawalsCanRevert.md)
+- [🔗 Low3-DepositIndexIncorrectUsageAtMaxDepositsUpdate](./Low/Low3-DepositIndexIncorrectUsageAtMaxDepositsUpdate.md)
+- [🔗 Low4-TotalDepositRoomOfGroupsAccountsForNonGroupVaults](./Low/Low4-TotalDepositRoomOfGroupsAccountsForNonGroupVaults.md)

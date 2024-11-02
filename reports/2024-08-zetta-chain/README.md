@@ -1,3 +1,6 @@
+
+# THIS README IS NOT PROPERLY UPDATED -> TOTAL FINDINGS BY MYSELF: 1/3/4
+
 # Project ℹ️
 
 <details> <summary> See summary info 👁️ℹ️ </summary>
@@ -17,7 +20,7 @@ _`ZetaChain is a L1 EVM compatible blockchain focused on connecting blockchains.
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- Judging $ 💸
+- 388.38 $ 💸 (1 medium's value is from George)
 
 # Lessons Learned 🧑‍💻
 
@@ -29,15 +32,11 @@ _`ZetaChain is a L1 EVM compatible blockchain focused on connecting blockchains.
 
 Check the findings' reports I submitted:
 
-My teamate submited 7 more.
-
-#### Critical ⚫
-
-- [🔗 Critical1-FreeZetaTokensWithCstxsBreaksEconomics](./Critical/Critical1-FreeZetaTokensWithCstxsBreaksEconomics.md)
-
-- [🔗 Critical2-AnyoneCanBurnZetaTokens](./Critical/Critical2-AnyoneCanBurnZetaTokens.md)
+My teammate submitted 1 valid Medium more.
 
 #### High 🔴
+
+- [🔗 Medium7-MissingCoreFuntionZetaTransfer](./Medium/Medium7-MissingCoreFuntionZetaTransfer.md) (`Upgraded to High`) ✅
 
 - [🔗 High1-InconsistentFeesDamagesZettaChain](./High/High1-InconsistentFeesDamagesZettaChain.md)
 
@@ -45,26 +44,30 @@ My teamate submited 7 more.
 
 #### Medium 🟡
 
-- [🔗 Medium1-SpecifiedReverOptionsNotImplemented](./Medium/Medium1-SpecifiedReverOptionsNotImplemented.md)
- 
-- [🔗 Medium2-CallingEOAWithDataShouldBePrevented](./Medium/Medium2-CallingEOAWithDataShouldBePrevented.md)
-  
-- [🔗 Medium3-TargetedPausesAvoidUnfairDOS](./Medium/Medium3-TargetedPausesAvoidUnfairDOS.md)
-  
-- [🔗 Medium4-ERC20CustodyReceivesFundsWhenPaused](./Medium/Medium4-ERC20CustodyReceivesFundsWhenPaused.md)
+- [🔗 Critical1-FreeZetaTokensWithCstxsBreaksEconomics](./Critical/Critical1-FreeZetaTokensWithCstxsBreaksEconomics.md) (`Downgraded to Medium`) ✅
+
+- [🔗 Medium1-SpecifiedReverOptionsNotImplemented](./Medium/Medium1-SpecifiedReverOptionsNotImplemented.md) (`Invalid: handled-off-chain`) ✅
+   
+- [🔗 Medium4-ERC20CustodyReceivesFundsWhenPaused](./Medium/Medium4-ERC20CustodyReceivesFundsWhenPaused.md) (`Invalid`) ✅
   
 - [🔗 Medium5-EOAsReceivingZetaInZetFromCstxIsWrong](./Medium/Medium5-EOAsReceivingZetaInZetFromCstxIsWrong.md)
-  
-- [🔗 Medium6-ZRC20TokenomicsCanBeAlteredByAnyone](./Medium/Medium6-ZRC20TokenomicsCanBeAlteredByAnyone.md)
-
-- [🔗 Medium7-MissingCoreFuntionZetaTransfer](./Medium/Medium7-MissingCoreFuntionZetaTransfer.md)
 
 #### Low 🔵
 
-- [🔗 Low1-TssAddressCantBeChanged](./Low/Low1-TssAddressCantBeChanged.md)
+- [🔗 Medium2-CallingEOAWithDataShouldBePrevented](./Medium/Medium2-CallingEOAWithDataShouldBePrevented.md) (`Downgraded to Low`) ✅
 
-- [🔗 Low2-EmptyMessageCongestsNetwork](./Low/Low2-EmptyMessageCongestsNetwork.md)
+- [🔗 Low1-TssAddressCantBeChanged](./Low/Low1-TssAddressCantBeChanged.md) ✅
 
-- [🔗 Low3-WithdrawZetaToZetaCongestsNetwork](./Low/Low3-WithdrawZetaToZetaCongestsNetwork.md)
+- [🔗 Low2-EmptyMessageCongestsNetwork](./Low/Low2-EmptyMessageCongestsNetwork.md) ✅
 
-- [🔗 Low4-InvalidChainIdsCongestsNetwork](./Low/Low4-InvalidChainIdsCongestsNetwork.md)
+- [🔗 Low3-WithdrawZetaToZetaCongestsNetwork](./Low/Low3-WithdrawZetaToZetaCongestsNetwork.md) ✅
+
+- [🔗 Low4-InvalidChainIdsCongestsNetwork](./Low/Low4-InvalidChainIdsCongestsNetwork.md) ✅
+
+#### Informational ⚪
+
+- [🔗 Medium3-TargetedPausesAvoidUnfairDOS](./Medium/Medium3-TargetedPausesAvoidUnfairDOS.md) (`Downgraded to Info`: **I disagree**) ✅
+
+- [🔗 Critical2-AnyoneCanBurnZetaTokens](./Critical/Critical2-AnyoneCanBurnZetaTokens.md) (`Downgraded to Informational`) ✅
+ 
+- [🔗 Medium6-ZRC20TokenomicsCanBeAlteredByAnyone](./Medium/Medium6-ZRC20TokenomicsCanBeAlteredByAnyone.md) (`Downgraded to Informational`) ✅
