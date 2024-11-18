@@ -137,8 +137,8 @@ At **02/11/2024**:
 
 <details> <summary> See them 👁️🤔 </summary> 
 
-- Controversy in `Stake LINK` contest, [see here](./reports/2024-05-midas/controversy.md).
-- Controversy in `SablierFlow` contest, [see here](./reports/2024-05-midas/controversy.md).
+- Controversy in `Stake Link` contest, [see here](./reports/2024-09-stakelink/controversy.md).
+- Controversy in `SablierFlow` contest, [see here](./reports/2024-10-sablierFlow/controversy.md).
 - Controversy in `TempleGold` contest, [see here](./reports/2024-07-templegold/controversy.md).
 - Controversy in `Midas` contest, [see here](./reports/2024-05-midas/controversy.md).
 
