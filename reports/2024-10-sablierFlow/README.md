@@ -31,14 +31,14 @@ Check the findings' reports I submitted:
 
 #### High 🔴
 
-- [🔗 High1-USDCBlacklistRisk](./High/High1-USDCBlacklistRisk.md)
+- [🔗 High1-USDCBlacklistRisk](./High/High1-USDCBlacklistRisk.md) (`Invalid`)
 
 #### Medium 🟡
 
 - [🔗 Medium1-ValidERC20sAreNotSupported](./Medium/Medium1-ValidERC20sAreNotSupported.md)
-- [🔗 Medium2-TokensCanUpgradeDecimals](./Medium/Medium2-TokensCanUpgradeDecimals.md)
-- [🔗 Medium3-HardForkAllowsForReceiverAbuse](./Medium/Medium3-HardForkAllowsForReceiverAbuse.md)
 
-#### Low 🔵
+#### Informational ⚪
 
-- [🔗 Low1-StatusOfViewCantBeTrusted](./Low/Low1-StatusOfViewCantBeTrusted.md)
+- [🔗 Medium2-TokensCanUpgradeDecimals](./Medium/Medium2-TokensCanUpgradeDecimals.md) (`Downgraded to Informational`)
+- [🔗 Medium3-HardForkAllowsForReceiverAbuse](./Medium/Medium3-HardForkAllowsForReceiverAbuse.md) (`Downgraded to Informational`)
+- [🔗 Low1-StatusOfViewCantBeTrusted](./Low/Low1-StatusOfViewCantBeTrusted.md) (`Downgraded to Informational`)

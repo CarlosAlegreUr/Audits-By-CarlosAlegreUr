@@ -1,12 +1,14 @@
 # Project ℹ️
 
+# THIS README IS NOT PROPERLY UPDATED -> TOTAL FINDINGS : 0/0/1
+
 <details> <summary> See summary info 👁️ℹ️ </summary>
 
 🔗 [2024-08-uniswapv4core](https://github.com/Uniswap/v4-core/commit/18b223cab19dc778d9d287a82d29fee3e99162b0)
 🔗 [2024-08-uniswapv4periphery](https://github.com/Uniswap/v4-periphery/commit/151b28293733b9cd8a310babc15408fe1ba55c35)
 🔗 [2024-08-uniswapv4universalrouter](https://github.com/Uniswap/universal-router/commit/a81e1ce93e5c87d106ccd936abc8517175f46572)
 
-🔗 Competition details on **cantina**: [click here](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659)
+🔗 Competition details on **Cantina**: [click here](https://cantina.xyz/competitions/e2cf6906-ec8b-4c78-a585-74ac90615659)
 
 According to the developers:
 
@@ -19,11 +21,11 @@ _`The Uniswap protocol is a peer-to-peer system designed for exchanging cryptocu
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- Judging $ 💸
+- 0 $ 💸
 
 # Lessons Learned 🧑‍💻
 
-- In depth knowledge of uniswap v4 contracts.
+- In depth knowledge of Uniswap v4 contracts.
  
 </details>
 
@@ -31,3 +33,10 @@ _`The Uniswap protocol is a peer-to-peer system designed for exchanging cryptocu
 
 Check the findings' reports I submitted:
 
+#### Low 🔵
+
+Only top 10 lows were rewarded, mine was not top 10.
+
+- 1 low: https://cantina.xyz/code/e2cf6906-ec8b-4c78-a585-74ac90615659/findings/91?status=new%2Cdisputed%2Crejected%2Cduplicate%2Cconfirmed%2Cacknowledged%2Cfixed&with_events=false&limit=20&created_by=charlesCheerful 
+
+#### Invalid 🟤

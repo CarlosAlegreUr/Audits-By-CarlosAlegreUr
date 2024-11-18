@@ -1,5 +1,7 @@
 # Project ℹ️
 
+# THIS PAGE IS NOT PROPERLY UPDATED -> FINAL RESULTS: H/M/L -> 1/2/2
+
 <details> <summary> See summary info 👁️ℹ️ </summary>
 
 🔗 [2024-09-stakelink](https://github.com/Cyfrin/2024-09-stakelink)
@@ -17,7 +19,7 @@ _`stake.link is a first-of-its-kind liquid delegated staking platform delivering
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- Judging $ 💸
+- 2917.81 $ 💸
 
 # Lessons Learned 🧑‍💻
 
