@@ -17,7 +17,7 @@
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 |
 | ------------- | --------------- | ------------ |
-| 16            | 18              | 31           |
+| 16            | 17              | 31           |
 
 ##### `Detailed time spent stats 🕐`
 <details> <summary> 🕐📈 </summary> 
@@ -78,7 +78,7 @@ At **02/11/2024**:
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_         | _Audit Reports_                                                        | _Date_                              |
 | -------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------- | ----------------------------------- |
 | 💵🤔             | ***Sablier Flow***: P2P debt tracking and settling                                                   | **`$865.89/0/0/1/0/0`**          | [go to report](./reports/2024-10-sablierFlow/)                         | 25/October/2024 - 01/November/2024  |
-| 💵🧑‍🤝‍🧑🤔          | ***Stake Link***: LINK staking v0.2                                                                  | **`$2917.81/1/2/2/0/0`**         | [go to report](./reports/2024-09-stakelink/)                           | 30/September/2024 - 17/October/2024 |
+| 💵🧑‍🤝‍🧑🤔          | ***Stake Link***: LINK staking v0.2                                                                  | **`$2917.81/1/1/2/0/0`**         | [go to report](./reports/2024-09-stakelink/)                           | 30/September/2024 - 17/October/2024 |
 | 💵              | ***Uniswap v4***: ERC20's AMM DEX                                                                    | **`$0/0/0/1/0/0`**               | [go to report](./reports/2024-09-uniswapv4/)                           | 06/September/2024 - 01/October/2024 |
 | 💵🧑‍🤝‍🧑           | ***Zeta-Chain***: universal hub chain                                                                | **`$388.38/1/3/4/0/0`**          | [go to report](./reports/2024-08-zetta-chain/)                         | 19/August/2024 - 04/September/2024  |
 | 💵              | ***Winnables-Raffles***: raffles using  Chainlink VRF and CCIP                                       | **`$35.98/2/2/0/0/0`**           | [go to report](./reports/2024-08-winnables-raffles/)                   | 16/August/2024 - 20/August/2024     |
@@ -123,13 +123,15 @@ At **02/11/2024**:
 
 <details> <summary> See them 👁️🦄🐴 </summary> 
 
-- [🦄🟡 Medium - User pays extra fees, Sherlok Long Successful Escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/95)
+- [🦄🟡 Medium - User pays extra fees, Sherlock Long Successful Escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/95)
   
-- [🦄🔵 Low- A low worth 340.12$!](./reports/2023-12-the-standard/VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
+- [🦄🔵 Low- A low worth $340.12!](./reports/2023-12-the-standard/VulnerabilitiesReport/Low2-MakeConsolidatePublic-CarlosAlegreUr.md)
 
-- [🐴🟡 Medium - User receives less than mintTo limit, Sherlok Successful escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/97)
+- [🐴🟡 Medium - User receives less than mintTo limit, Sherlock Successful escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/97)
 
-- [💰🔵 Low- A low worth 865.89$!](./reports/2024-10-sablierFlow/Medium/Medium1-ValidERC20sAreNotSupported.md)
+- [💰🟡 Medium- Worth $1478.58! Total submitters: 3](./reports/2024-09-stakelink/Medium/Medium4-UpkeepInWithdrawalPoolIsBroken.md)
+
+- [💰🔵 Low- A low worth $865.89!](./reports/2024-10-sablierFlow/Medium/Medium1-ValidERC20sAreNotSupported.md)
 
 </details>
 
@@ -154,7 +156,7 @@ At **02/11/2024**:
 
 - [🔴 High- My first High, Decimals not handled properly](./reports/2023-07-beedle/Vulnerabilities-Reports/High1-Decimals-CarlosAlegreUr.md)
 
-- [⚪ QA+LowRisk report grade A at Chainlink's code. I was proud of getting grade A on a famous bussines's code in my firsts audits. (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
+- [⚪ QA+LowRisk report grade A at Chainlink's code. I was proud of getting grade A on a famous bussiness's code in my firsts audits. (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
 
 - [🔵 Low- Low-level .call emits incorrect event. I was proud of realizing this, it was tricky for me at that time.](./reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)
 
