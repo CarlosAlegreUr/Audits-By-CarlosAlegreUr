@@ -1,6 +1,18 @@
 
 # THIS README IS NOT PROPERLY UPDATED -> TOTAL FINDINGS BY MYSELF: 1/3/4
 
+> ⚠️ The labeling and judging of our submissions was pretty messy. I do not consider arranging them properly in this README  a good use of my current time. ⚠️
+
+# To see all valid issues submited by us go to this Cantina page about the audit: [link](https://cantina.xyz/code/80a33cf0-ad69-4163-a269-d27756aacb5e/findings/136?with_events=false&limit=20&status=confirmed%2Cduplicate&created_by=charlesCheerful%2Ckalogerone&severity=medium%2Clow%2Cinformational%2Chigh).
+
+## Duplicates of `Rejected` findings are not valid of course.
+
+---
+---
+---
+---
+---
+
 # Project ℹ️
 
 <details> <summary> See summary info 👁️ℹ️ </summary>
