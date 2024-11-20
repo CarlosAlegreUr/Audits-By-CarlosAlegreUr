@@ -148,11 +148,13 @@ At **02/11/2024**:
 
 <details> <summary> See them 👁️🎨 </summary> 
 
+- [🔵 Low- A low in Uniswap V4 code that was in V3 too and has been there for a log time](./reports/2024-09-uniswapv4/Low1-BipsLibraryRoundToZeroIssues.md)
+
 - [⚫ Critical- My first critical, DOS cause of array size](./reports/2023-12-the-standard/VulnerabilitiesReport/Critical1-ArraysExceedGasLimit-CarlosAlegreUr.md)
 
 - [🔴 High- My first High, Decimals not handled properly](./reports/2023-07-beedle/Vulnerabilities-Reports/High1-Decimals-CarlosAlegreUr.md)
 
-- [⚪ Chainlink QA+LowRisk report grade A. I was proud of getting grade A on a famous bussines's code in my firsts audits. (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
+- [⚪ QA+LowRisk report grade A at Chainlink's code. I was proud of getting grade A on a famous bussines's code in my firsts audits. (Not allowed to show the results, you can see it's true in my code4arena profile)](https://code4rena.com/@carlos__alegre)
 
 - [🔵 Low- Low-level .call emits incorrect event. I was proud of realizing this, it was tricky for me at that time.](./reports/2023-08-sparkn/Low2-EventCanBeEmittedIncorrectly-CarlosAlegreUr.md)
 
