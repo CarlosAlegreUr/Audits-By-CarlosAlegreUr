@@ -17,7 +17,7 @@ _`What is Flow? Flow is a debt tracking protocol that tracks tokens owed between
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- Judging $ 💸
+- 865.89 $ 💸
 
 # Lessons Learned 🧑‍💻
 
