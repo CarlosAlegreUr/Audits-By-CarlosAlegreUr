@@ -19,7 +19,8 @@
 | ------------- | --------------- | ------------ |
 | 16            | 17              | 31           |
 
-| ***Supported Languages*** 🦩  |     |
+#### **`Supported Languages`** 🦩
+|   |     |
 | ---------------------------- | --- |
 | <img width=50 src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" alt="solidity"/> | <img width=50 src="https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg" alt="solana-rust"/>    |
 
