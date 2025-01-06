@@ -19,6 +19,10 @@
 | ------------- | --------------- | ------------ |
 | 16            | 17              | 31           |
 
+| ***Supported Languages*** 🦩  |     |
+| ---------------------------- | --- |
+| <img width=50 src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" alt="solidity"/> | <img width=50 src="https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg" alt="solana-rust"/>    |
+
 ##### `Detailed time spent stats 🕐`
 <details> <summary> 🕐📈 </summary> 
 
@@ -44,7 +48,7 @@ At **02/11/2024**:
 | <img src="https://pbs.twimg.com/profile_images/1631113162262183936/IV_fsyQ3_400x400.png" width="60"> | <img src="https://pbs.twimg.com/profile_images/1806266423548735488/zWudaEmt_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1788980045425377280/3jRqgFQY_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1846898547645390848/XExySh0C_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1860741694431313921/COlEJmQe_400x400.jpg" width="60"> |
 | **`TOP ~13%`** registered wardens (08/05/2024)                                                       | **`TOP 100`** auditors **`Nº98`** (06/03/2024)                                                       | **`Top ~10%`** Leaderboard (08/05/2024)                                                              | **`TOP 100`** auditors **`Nº58`** (27/05/2024)                                                       | **`Nº 283 out of 516`** auditors' leaderboard (02/11/2024)                                           |
 |                                                                                                      |
-| 3 contest                                                                                           | 11 contests                                                                                           | 5 contests                                                                                           |                                                                                                      | 2 contests                                                                                           |
+| 3 contest                                                                                            | 11 contests                                                                                          | 5 contests                                                                                           |                                                                                                      | 2 contests                                                                                           |
 | [See profile](https://code4rena.com/@carlos__alegre)                                                 | [See profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul)                           | [See profile](https://audits.sherlock.xyz/watson/charles__cheerful)                                  | [See profile](https://solodit.xyz/user/charles__cheerful)                                            | [See profile](https://cantina.xyz/u/charlesCheerful)                                                 |
 
 <hr/>
