@@ -24,19 +24,6 @@
 | ---------------------------- | --- |
 | <img width=50 src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" alt="solidity"/> | <img width=50 src="https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg" alt="solana-rust"/>    |
 
-##### `Detailed time spent stats 🕐`
-<details> <summary> 🕐📈 </summary> 
-
-At **02/11/2024**:
-
-| `Contests` | `Private` | `Bug Bounty` | `Practice` | **`Total`**    |
-| ---------- | --------- | ------------ | ---------- | -------------- |
-| 765.68     | 0         | 0            | 56.5       | **`822.18 h`** |
-
-> 📘 **Note** ℹ️: Practice means audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
-
-</details>
-
 <hr/>
 <hr/>
 
