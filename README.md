@@ -13,11 +13,11 @@
 
  | `Total Audits` 🛡️ | `Findings' Value` 💸 | `Time Spent 🕐 (at 02/11/2024)` |
  | ---------------- | ------------------- | ------------------------------ |
- | **_`21`_**       | **_`10531.21$`_**   | **_`822.18h`_**                |
+ | **_`23`_**       | **_`11917.83$`_**   | **_`898.76h`_**                |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 |
 | ------------- | --------------- | ------------ |
-| 16            | 17              | 31           |
+| 16            | 17              | 34           |
 
 #### **`Supported Languages`** 🦩
 |   |     |
@@ -36,7 +36,7 @@
 | <img src="https://pbs.twimg.com/profile_images/1631113162262183936/IV_fsyQ3_400x400.png" width="60"> | <img src="https://pbs.twimg.com/profile_images/1806266423548735488/zWudaEmt_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1788980045425377280/3jRqgFQY_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1846898547645390848/XExySh0C_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1860741694431313921/COlEJmQe_400x400.jpg" width="60"> |
 | **`TOP ~13%`** registered wardens (08/05/2024)                                                       | **`TOP 100`** auditors **`Nº98`** (06/03/2024)                                                       | **`Top ~10%`** Leaderboard (08/05/2024)                                                              | **`TOP 100`** auditors **`Nº58`** (27/05/2024)                                                       | **`Nº 283 out of 516`** auditors' leaderboard (02/11/2024)                                           |
 |                                                                                                      |
-| 3 contest                                                                                            | 11 contests                                                                                          | 5 contests                                                                                           |                                                                                                      | 2 contests                                                                                           |
+| 3 contest                                                                                            | 11 contests                                                                                          | 6 contests                                                                                           |                                                                                                      | 3 contests                                                                                           |
 | [See profile](https://code4rena.com/@carlos__alegre)                                                 | [See profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul)                           | [See profile](https://audits.sherlock.xyz/watson/charles__cheerful)                                  | [See profile](https://solodit.xyz/user/charles__cheerful)                                            | [See profile](https://cantina.xyz/u/charlesCheerful)                                                 |
 
 <hr/>
@@ -69,6 +69,8 @@
 
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_         | _Audit Reports_                                                        | _Date_                              |
 | -------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------- | ----------------------------------- |
+| 💵🤔             | ***Tally ARB Staker***: DAO staking infra                                                   | **`$1659.62/0/0/3/0/0`**          | [go to report](./reports/2024-12-tallyArbStaker/)                         | 17/December/2024 - 22/December/2024  |
+| 🧑‍⚖️             | ***Collar Core***: Option structured loans                                                   | **`$865.89/0/0/0/0/0`**          | [go to report](./reports/2024-11-collar-core/)                         | 25/November/2024 - 16/December/2024  |
 | 💵🤔             | ***Sablier Flow***: P2P debt tracking and settling                                                   | **`$865.89/0/0/1/0/0`**          | [go to report](./reports/2024-10-sablierFlow/)                         | 25/October/2024 - 01/November/2024  |
 | 💵🧑‍🤝‍🧑🤔          | ***Stake Link***: LINK staking v0.2                                                                  | **`$2917.81/1/1/2/0/0`**         | [go to report](./reports/2024-09-stakelink/)                           | 30/September/2024 - 17/October/2024 |
 | 💵              | ***Uniswap v4***: ERC20's AMM DEX                                                                    | **`$0/0/0/1/0/0`**               | [go to report](./reports/2024-09-uniswapv4/)                           | 06/September/2024 - 01/October/2024 |
