@@ -17,7 +17,7 @@ _`Collar Protocol is a lending protocol that enables liquidation-free and high L
 # Rewards Earned 💸🧠
 
 - Experience and knowledge. 😄
-- JUDGING $ 💸
+- 8103.93 $ 💸
 
 # Lessons Learned 🧑‍💻
 
@@ -31,10 +31,10 @@ Check the findings' reports we submitted:
 
 #### Medium 🟡
 
-
+- [Medium1-ForcingSwapsOnOtherUsersAddresses](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings?with_events=false&limit=20&duplicates=true&status=new,disputed,duplicate,confirmed,acknowledged,fixed&created_by=charlesCheerful,kalogerone&severity=medium&finding=294)
 
 #### Low 🔵
 
+- [Low1-RollFeeMechanicsArePrejudicialForBothParites](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings?with_events=false&limit=20&duplicates=true&status=new,disputed,duplicate,confirmed,acknowledged,fixed&created_by=charlesCheerful,kalogerone&severity=low&finding=282)
 
-
-#### Informational ⚪
+- [Low2-LoanCanBeExpiredAndNotAtTheSameTime](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings?with_events=false&limit=20&duplicates=true&status=new,disputed,duplicate,confirmed,acknowledged,fixed&created_by=charlesCheerful,kalogerone&severity=low&finding=213)
