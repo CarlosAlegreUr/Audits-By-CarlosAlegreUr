@@ -1,12 +1,3 @@
-<hr/>
-<hr/>
-
-# [General Stats 📈](#general-stats) - [Public Rankings 🏆](#rankings)  
-# [Audits List 📓](#audits-list) - [Interesting Findings 🕵️](#interesting-findings)
-
-<hr/>
-<hr/>
-
 <p id="general-stats"> </p>
 
 # General Stats 📈
@@ -33,13 +24,22 @@
 
 <details><summary> See details👁️ </summary>
 
-## Findings Stats 🐛
+<hr/>
+<hr/>
 
- | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | `Findings' Value` 💸 |
- | ------------- | --------------- | ------------ | ------------------- |
- | 17            | 18              | 36           | **_`$20K`_**        |
+# [Findings Stats 🐛](#findings-stats) - [Rankings 🏆](#rankings) 
+# [Audits List 📓](#audits-list) - [Interesting Findings 🕵️](#interesting-findings)
 
+<hr/>
+<hr/>
 
+<p id="findings-stats"> </p>
+
+# Findings Stats 🐛
+
+| _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | `Findings' Value` 💸 |
+| ------------- | --------------- | ------------ | ------------------- |
+| 17            | 18              | 36           | **_`$20K`_**        |
 
 <hr/>
 <hr/>
