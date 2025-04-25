@@ -16,7 +16,7 @@
 <details><summary> See details👁️ </summary>
 
 - Working with [SigmaPrime](https://sigmaprime.io/): 2 reviews.
-> These reviews were the result of a team effort with other auditors at SigmaPrime.
+> 📘 Note ℹ️: These reviews were the result of a team effort with other auditors at SigmaPrime.
 
 </details>
 
