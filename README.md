@@ -13,11 +13,11 @@
 
  | `Total Audits` 🛡️ | `Findings' Value` 💸 |
  | ---------------- | ------------------- |
- | **_`25`_**       | **_`$20K`_**        |
+ | **_`26`_**       | **_`$20K`_**        |
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 |
 | ------------- | --------------- | ------------ |
-| 16            | 18              | 36           |
+| 17            | 18              | 36           |
 
 #### **`Supported Languages`** 🦩
 |                                                                                                                    |                                                                                                                       |
@@ -68,7 +68,8 @@
 
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_         | _Audit Reports_                                                        | _Date_                              |
 | -------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------- | ----------------------------------- |
-| 🧑‍⚖️              | ***RAAC Core***: RWA backed lending and more                                                         | **`$0/0/0/0/0`**                 | [go to report](./reports/2024-12-tallyArbStaker/)                      | 17/December/2024 - 22/December/2024 |
+| 💵              | ***Yieldoor***: Yield strategy for UniV3                                                         | **`$13.80/1/0/0/0`**                 | [go to report](./reports/2025-02-yieldoor/)                      | 24/February/2025 - 03/March/2025 |
+| 🧑‍⚖️              | ***RAAC Core***: RWA backed lending and more                                                         | **`$0/0/0/0/0`**                 | [go to report](./reports/2025-02-raac/)                      | 03/February/2025 - 24/February/2025 |
 | 🧠              | ***AAVE DIVA Wrapper***: Leverage DIVA with AAVE yield                                               | **`$0/0/0/0/0`**                 | [go to report](./reports/2025-01-diva/)                      | 24/January/2025 - 31/January/2025 |
 | 💵🤔             | ***Tally ARB Staker***: DAO staking infra                                                            | **`$1659.62/0/0/3/0/0`**         | [go to report](./reports/2024-12-tallyArbStaker/)                      | 17/December/2024 - 22/December/2024 |
 | 💵🧑‍🤝‍🧑           | ***Collar Core***: Option structured loans                                                           | **`$8103.93/0/2/2/0/0`**         | [go to report](./reports/2024-11-collar-core/)                         | 25/November/2024 - 16/December/2024 |
