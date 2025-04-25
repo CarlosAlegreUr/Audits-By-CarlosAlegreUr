@@ -1,7 +1,7 @@
 <hr/>
 <hr/>
 
-# [General Stats 📈](#general-stats) - [Rankings 🏆](#rankings)  
+# [General Stats 📈](#general-stats) - [Public Rankings 🏆](#rankings)  
 # [Audits List 📓](#audits-list) - [Interesting Findings 🕵️](#interesting-findings)
 
 <hr/>
@@ -11,18 +11,35 @@
 
 # General Stats 📈
 
- | `Total Audits` 🛡️ | `Findings' Value` 💸 |
- | ---------------- | ------------------- |
- | **_`26`_**       | **_`$20K`_**        |
+ | `Total Reviews` 🛡️ | `Private` | `Public`   |
+ | ----------------- | --------- | ---------- |
+ | **_`28`_**        | **_`2`_** | **_`26`_** |
 
-| _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 |
-| ------------- | --------------- | ------------ |
-| 17            | 18              | 36           |
-
-#### **`Supported Languages`** 🦩
+ #### **`Supported Languages`** 🦩
 |                                                                                                                    |                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | <img width=50 src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" alt="solidity"/> | <img width=50 src="https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg" alt="solana-rust"/> |
+
+## Private Reviews Stats 🕵️
+
+<details><summary> See details👁️ </summary>
+
+- Working with [SigmaPrime](https://sigmaprime.io/): 2 reviews.
+> These reviews were the result of a team effort with other auditors at SigmaPrime.
+
+</details>
+
+## Public Reviews Stats 🌐
+
+<details><summary> See details👁️ </summary>
+
+## Findings Stats 🐛
+
+ | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | `Findings' Value` 💸 |
+ | ------------- | --------------- | ------------ | ------------------- |
+ | 17            | 18              | 36           | **_`$20K`_**        |
+
+
 
 <hr/>
 <hr/>
@@ -68,9 +85,9 @@
 
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_         | _Audit Reports_                                                        | _Date_                              |
 | -------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------- | ----------------------------------- |
-| 💵              | ***Yieldoor***: Yield strategy for UniV3                                                         | **`$13.80/1/0/0/0`**                 | [go to report](./reports/2025-02-yieldoor/)                      | 24/February/2025 - 03/March/2025 |
-| 🧑‍⚖️              | ***RAAC Core***: RWA backed lending and more                                                         | **`$0/0/0/0/0`**                 | [go to report](./reports/2025-02-raac/)                      | 03/February/2025 - 24/February/2025 |
-| 🧠              | ***AAVE DIVA Wrapper***: Leverage DIVA with AAVE yield                                               | **`$0/0/0/0/0`**                 | [go to report](./reports/2025-01-diva/)                      | 24/January/2025 - 31/January/2025 |
+| 💵              | ***Yieldoor***: Yield strategy for UniV3                                                             | **`$13.80/1/0/0/0`**             | [go to report](./reports/2025-02-yieldoor/)                            | 24/February/2025 - 03/March/2025    |
+| 🧑‍⚖️              | ***RAAC Core***: RWA backed lending and more                                                         | **`$0/0/0/0/0`**                 | [go to report](./reports/2025-02-raac/)                                | 03/February/2025 - 24/February/2025 |
+| 🧠              | ***AAVE DIVA Wrapper***: Leverage DIVA with AAVE yield                                               | **`$0/0/0/0/0`**                 | [go to report](./reports/2025-01-diva/)                                | 24/January/2025 - 31/January/2025   |
 | 💵🤔             | ***Tally ARB Staker***: DAO staking infra                                                            | **`$1659.62/0/0/3/0/0`**         | [go to report](./reports/2024-12-tallyArbStaker/)                      | 17/December/2024 - 22/December/2024 |
 | 💵🧑‍🤝‍🧑           | ***Collar Core***: Option structured loans                                                           | **`$8103.93/0/2/2/0/0`**         | [go to report](./reports/2024-11-collar-core/)                         | 25/November/2024 - 16/December/2024 |
 | 💵🤔             | ***Sablier Flow***: P2P debt tracking and settling                                                   | **`$865.89/0/0/1/0/0`**          | [go to report](./reports/2024-10-sablierFlow/)                         | 25/October/2024 - 01/November/2024  |
@@ -84,9 +101,9 @@
 | 💵🤔             | ***Midas***: tokenization of U.S. TBills                                                             | **`$69.66/0/1/1/0/0`**           | [go to report](./reports/2024-05-midas/)                               | 28/May/2024 - 31/May/2024           |
 | 🧑‍🤝‍🧑🧠           | ***Sablier***: generalized streaming tokens solution                                                 | **`$0/0/0/0/0/0`**               | [go to report](./reports/2024-05-Sablier/)                             | 10/May/2024 - 31/May/2024           |
 | 🧑‍🤝‍🧑💵           | ***Panoptic***: options trading over UniV3 liquidity ranges                                          | **`$0(8,126.32$)/0/0/0/0/0`**    | [go to report](./reports/2024-04-panoptic/)                            | 1/April/2024 - 22/April/2024        |
-| 🧑‍🤝‍🧑💵          | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$515.82($515.82)/0/0/2/0/0`** | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024       |
-| 💵             | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$3992.17/0/3/3/0/0`**         | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024       |
-| 🧠             | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**               | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024   |
+| 🧑‍🤝‍🧑💵           | ***vVv Vesting & Staking***: eth baesd staking and vesting of vVv token sPMM                         | **`$515.82($515.82)/0/0/2/0/0`** | [go to report](./reports/2024-03-vvv-vesting-staking)                  | 25/March/2024 - 28/March/2024       |
+| 💵              | ***WOOFi Swap***: the cross-chain exchange of WOOFi, using their sPMM                                | **`$3992.17/0/3/3/0/0`**         | [go to report](./reports/2024-03-woofi-swap)                           | 12/March/2024 - 20/March/2024       |
+| 🧠              | ***Avail Bridge***: bridge ETH<->AVAIL, a modular blockchain                                         | **`$0/0/0/0/0/0`**               | [go to report](./reports/2023-12-avail)                                | 19/January/2024 - 22/January/2024   |
 | 💵              | ***The Standard***: 2 stablecoins backed by assets to borrow assets                                  | **`$340.13/1/0/1/0/0`**          | [go to report](./reports/2023-12-the-standard)                         | 27/December/2023 - 10/January/2024  |
 | 💵🔒             | ***Chainlink Staking v0.2***: staking feature to strengthen reliability by offering extra incentives | **`$367.34/0/0/9/0/5`**          | [go to report](./reports/2023-08-chainlink)                            | 25/August/2023 - 12/September/2023  |
 | 💵              | ***Sparkn***: Marketplace for problem solving deals                                                  | **`$19.88/0/0/1/0/0`**           | [go to report](./reports/2023-08-sparkn)                               | 21/August/2023 - 23/August/2023     |
@@ -102,7 +119,8 @@
 
 |                                                                                                                                                                        |                                                                                                                                                                                                       |                                                                                                                                                              |                                                                                                                                                                     |                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/eecc6ekr2ylkcbjjghni?_a=DATAg1AAZAA0" width="50">                                                                                                                                                | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/p2w03ol2qrqtfzgblnpo?_a=DATAg1AAZAA0" width="50">                                                                                                                                                                               | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Ftally.jpg&w=64&q=75" width="50"> | <img src="https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/67b7d06b-1ccb-4bcc-b2b0-44bbac9ed900/public" width="50">                                                 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/s2cgcm6u8mpjrsfsydo5?_a=DATAg1AAZAA0" width="50"> |
+| <img src="" width="50">                                                                                                                                                | <img src="" width="50">                                                                                                                                                                               | <img src="" width="50">                                                                                                                                      | <img src="" width="50">                                                                                                                                             | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fyieldoor_logo.jpeg&w=64&q=75" width="50">  |
+| <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/eecc6ekr2ylkcbjjghni?_a=DATAg1AAZAA0" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/p2w03ol2qrqtfzgblnpo?_a=DATAg1AAZAA0" width="50">                                | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Ftally.jpg&w=64&q=75" width="50"> | <img src="https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/67b7d06b-1ccb-4bcc-b2b0-44bbac9ed900/public" width="50">                                                 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/s2cgcm6u8mpjrsfsydo5?_a=DATAg1AAZAA0" width="50"> |
 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/i1y9fns50hfag91yvewa?_a=DATAg1AAZAA0" width="50"> | <img src="https://pbs.twimg.com/profile_images/1831348758753206272/y2Z0hMrl_400x400.jpg" alt="filler" width="50">                                                                                     | <img src="https://imagedelivery.net/wtv4_V7VzVsxpAFaxzmpbw/3966feda-db4d-4a56-5b1a-71858b32e000/public" alt="filler" width="50">                             | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fwinnnables.jpg&w=64&q=75" width="50">   | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/crvpf3cxfjpqwwsufnif?_a=DATAfRAAZAA0" width="50"> |
 | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ovmmfbu9hgikanujugqr?_a=DATAdtAAZAA0" width="50"> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fcode4-api-v0-public-storage.s3.us-east-1.amazonaws.com%2Fupload-Q5SKk7YnfwH&w=96&q=75&dpl=dpl_64wso2S2o5WR2k9t1fvFqLigwBJY" width="50"> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fmidas.png&w=64&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_1.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/tiyiiu6e4hib55p0tm3m?_a=BATAUVAA0" width="50"> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2Fve7mSg8Pcp2.0&w=96&q=75" width="50">              |
 | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fvvv.jpg&w=96&q=75" width="50">             | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Fwoofi.jpg&w=96&q=75" width="50">                                          | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Favail.png&w=96&q=75" width="50"> | <img src="https://res.cloudinary.com/droqoz7lg/image/upload/q_90/dpr_2.0/c_fill,g_auto,h_320,w_320/f_auto/v1/company/ocfw27qwcjzzd7ftoe8b?_a=BATAUVAA0" width="50"> | <img src="https://storage.googleapis.com/cdn-c4-uploads-v0/uploads/mPCt56QMbsr.0" width="50">                                                                          |
@@ -179,10 +197,12 @@
 
 > 📘 **Note** ℹ️: Audits I expected no rewards from due to not fully conducting them. I just spent time on them to learn and get exposed to more codebases.
  
-|                                                                                                                                                                              |                                                                                                                                                                                  |                                                                                                                                                                        |                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+|                                                                                                                                                                              |                                                                                                                                                                                  |                                                                                                                                                                        |                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FHK728fzERfV.0&w=96&q=75" width="50"> <p>zk-sync Era</p> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Farcadia.jpg&w=96&q=75" width="50"> <p>Arcadia V2</p> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FDfiqzUd3Mpd.0&w=96&q=75" width="50"> <p>Acala</p> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fcode4-api-v0-public-storage.s3.us-east-1.amazonaws.com%2Fupload-7ededdKNF7M&w=32&q=75" width="50"> <p>Pump Science</p> |
  
 
 <hr/>
 <hr/>
+
+</details>
