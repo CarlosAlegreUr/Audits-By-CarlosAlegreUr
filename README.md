@@ -1,3 +1,6 @@
+<hr/>
+<hr/>
+
 <p id="general-stats"> </p>
 
 # General Stats 📈
@@ -6,10 +9,13 @@
  | ----------------- | --------- | ---------- |
  | **_`28`_**        | **_`2`_** | **_`26`_** |
 
- #### **`Supported Languages`** 🦩
+### **`Supported Languages`** 🦩
 |                                                                                                                    |                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
 | <img width=50 src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" alt="solidity"/> | <img width=50 src="https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg" alt="solana-rust"/> |
+
+<hr/>
+<hr/>
 
 ## Private Reviews Stats 🕵️
 
@@ -202,7 +208,7 @@
 | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FHK728fzERfV.0&w=96&q=75" width="50"> <p>zk-sync Era</p> | <img src="https://audits.sherlock.xyz/_next/image?url=https%3A%2F%2Fsherlock-files.ams3.digitaloceanspaces.com%2Fcontests%2Farcadia.jpg&w=96&q=75" width="50"> <p>Arcadia V2</p> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fcdn-c4-uploads-v0%2Fuploads%2FDfiqzUd3Mpd.0&w=96&q=75" width="50"> <p>Acala</p> | <img src="https://code4rena.com/_next/image?url=https%3A%2F%2Fcode4-api-v0-public-storage.s3.us-east-1.amazonaws.com%2Fupload-7ededdKNF7M&w=32&q=75" width="50"> <p>Pump Science</p> |
  
 
-<hr/>
-<hr/>
-
 </details>
+
+<hr/>
+<hr/>
