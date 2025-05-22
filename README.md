@@ -21,7 +21,7 @@
 
 <details><summary> See details👁️ </summary>
 
-- Working with [SigmaPrime](https://sigmaprime.io/): 2 reviews.
+- Working with [SigmaPrime](https://sigmaprime.io/): 3 reviews.
 > 📘 Note ℹ️: These reviews were the result of a team effort with other auditors at SigmaPrime.
 
 </details>
@@ -59,7 +59,7 @@
 | <img src="https://pbs.twimg.com/profile_images/1631113162262183936/IV_fsyQ3_400x400.png" width="60"> | <img src="https://pbs.twimg.com/profile_images/1806266423548735488/zWudaEmt_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1788980045425377280/3jRqgFQY_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1846898547645390848/XExySh0C_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1860741694431313921/COlEJmQe_400x400.jpg" width="60"> |
 | **`TOP ~13%`** registered wardens (08/05/2024)                                                       | **`TOP 100`** auditors **`Nº98`** (06/03/2024)                                                       | **`Top ~10%`** Leaderboard (08/05/2024)                                                              | **`TOP 100`** auditors **`Nº58`** (27/05/2024)                                                       | **`TOP ~22%`** auditors' leaderboard (17/01/2025)                                                    |
 |                                                                                                      |
-| 3 contest                                                                                            | 13 contests                                                                                          | 6 contests                                                                                           |                                                                                                      | 3 contests                                                                                           |
+| 3 contest                                                                                            | 13 contests                                                                                          | 7 contests                                                                                           |                                                                                                      | 3 contests                                                                                           |
 | [See profile](https://code4rena.com/@carlos__alegre)                                                 | [See profile](https://www.codehawks.com/profile/clk3wmzul0008l808andx29ul)                           | [See profile](https://audits.sherlock.xyz/watson/charles__cheerful)                                  | [See profile](https://solodit.xyz/user/charles__cheerful)                                            | [See profile](https://cantina.xyz/u/charlesCheerful)                                                 |
 
 <hr/>
