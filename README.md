@@ -7,7 +7,7 @@
 
  | `Total Reviews` 🛡️ | `Private` | `Public`   |
  | ----------------- | --------- | ---------- |
- | **_`29`_**        | **_`3`_** | **_`26`_** |
+ | **_`31`_**        | **_`5`_** | **_`26`_** |
 
 ### **`Supported Languages`** 🦩
 |                                                                                                                    |                                                                                                                       |
@@ -21,7 +21,7 @@
 
 <details><summary> See details👁️ </summary>
 
-- Working with [SigmaPrime](https://sigmaprime.io/): 3 reviews.
+- Working with [SigmaPrime](https://sigmaprime.io/): 5 reviews.
 > 📘 Note ℹ️: These reviews were the result of a team effort with other auditors at SigmaPrime.
 
 </details>
@@ -45,7 +45,7 @@
 
 | _High Risk_ 🏅 | _Medium Risk_ 🥈 | _Low Risk_ 🥉 | `Findings' Value` 💸 |
 | ------------- | --------------- | ------------ | ------------------- |
-| 17            | 18              | 36           | **_`$20K`_**        |
+| 37            | 37              | 42           | **_`~$21K`_**        |
 
 <hr/>
 <hr/>
@@ -92,7 +92,7 @@
 | _State_        | _Topic_                                                                                              | _$ / H / M / L / G / QA_         | _Audit Reports_                                                        | _Date_                              |
 | -------------- | ---------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------- | ----------------------------------- |
 | 💵              | ***Yieldoor***: Yield strategy for UniV3                                                             | **`$13.80/1/0/0/0`**             | [go to report](./reports/2025-02-yieldoor/)                            | 24/February/2025 - 03/March/2025    |
-| 🧑‍⚖️              | ***RAAC Core***: RWA backed lending and more                                                         | **`$0/0/0/0/0`**                 | [go to report](./reports/2025-02-raac/)                                | 03/February/2025 - 24/February/2025 |
+| 💵              | ***RAAC Core***: RWA backed lending and more                                                         | **`$1386.31/20/19/6/0`**                 | [go to report](./reports/2025-02-raac/)                                | 03/February/2025 - 24/February/2025 |
 | 🧠              | ***AAVE DIVA Wrapper***: Leverage DIVA with AAVE yield                                               | **`$0/0/0/0/0`**                 | [go to report](./reports/2025-01-diva/)                                | 24/January/2025 - 31/January/2025   |
 | 💵🤔             | ***Tally ARB Staker***: DAO staking infra                                                            | **`$1659.62/0/0/3/0/0`**         | [go to report](./reports/2024-12-tallyArbStaker/)                      | 17/December/2024 - 22/December/2024 |
 | 💵🧑‍🤝‍🧑           | ***Collar Core***: Option structured loans                                                           | **`$8103.93/0/2/2/0/0`**         | [go to report](./reports/2024-11-collar-core/)                         | 25/November/2024 - 16/December/2024 |
@@ -150,6 +150,8 @@
 - [🐴🟡 Medium - Got us 2nd place. Grief users transferring NFTs leveraging system keepers approvals.](https://cantina.xyz/code/050711ca-a6d1-4fdd-9f94-3816233c1bd5/findings?with_events=false&limit=20&duplicates=true&status=new,disputed,duplicate,confirmed,acknowledged,fixed&created_by=charlesCheerful,kalogerone&severity=medium&finding=294)
 
 - [🐴🟡 Medium - User receives less than mintTo limit, Sherlock Successful escalation](https://github.com/sherlock-audit/2024-03-woofi-swap-judging/issues/97)
+
+- [🐴🟡 Medium - Last borrow a user repays only applies simple interest and not compound one.](https://codehawks.cyfrin.io/c/2025-02-raac/s/649)
 
 - [💰🟡 Medium- Worth $1478.58! Total submitters: 3](./reports/2024-09-stakelink/Medium/Medium4-UpkeepInWithdrawalPoolIsBroken.md)
 
