@@ -7,12 +7,12 @@
 
  | `Total Reviews` 🛡️ | `Private` | `Public`   |
  | ----------------- | --------- | ---------- |
- | **_`31`_**        | **_`5`_** | **_`26`_** |
+ | **_`35`_**        | **_`9`_** | **_`26`_** |
 
-### **`Supported Languages`** 🦩
-|                                                                                                                    |                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| <img width=50 src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" alt="solidity"/> | <img width=50 src="https://pbs.twimg.com/profile_images/1472933274209107976/6u-LQfjG_400x400.jpg" alt="solana-rust"/> |
+### **`Supported`** 🦩
+|                                                                                                                    |                                                                                                                      |                                                                                                                      | 
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| <img width=50 src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" alt="solidity"/> | <img width=50 src="https://pbs.twimg.com/profile_images/1876514615611289600/26ItYplZ_400x400.jpg" alt="anchor-solana-rust"/> | <img width=50 src="https://docs.circom.io/circom-logo-black.png" alt="circom"/> |
 
 <hr/>
 <hr/>
@@ -21,7 +21,7 @@
 
 <details><summary> See details👁️ </summary>
 
-- Working with [SigmaPrime](https://sigmaprime.io/): 5 reviews.
+- Working with [SigmaPrime](https://sigmaprime.io/): 9 reviews.
 > 📘 Note ℹ️: These reviews were the result of a team effort with other auditors at SigmaPrime.
 
 </details>
