@@ -7,7 +7,7 @@
 
  | `Total Reviews` 🛡️ | `Private` | `Public`   |
  | ----------------- | --------- | ---------- |
- | **_`35`_**        | **_`9`_** | **_`26`_** |
+ | **_`36`_**        | **_`10`_** | **_`26`_** |
 
 ### **`Supported`** 🦩
 |                                                                                                                    |                                                                                                                      |                                                                                                                      | 
@@ -21,7 +21,7 @@
 
 <details><summary> See details👁️ </summary>
 
-- Working with [SigmaPrime](https://sigmaprime.io/): 9 reviews.
+- Working with [SigmaPrime](https://sigmaprime.io/): 10 reviews.
 > 📘 Note ℹ️: These reviews were the result of a team effort with other auditors at SigmaPrime.
 
 </details>
