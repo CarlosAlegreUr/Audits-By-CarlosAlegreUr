@@ -7,12 +7,12 @@
 
  | `Total Reviews` 🛡️ | `Private` | `Public`   |
  | ----------------- | --------- | ---------- |
- | **_`36`_**        | **_`10`_** | **_`26`_** |
+ | **_`38`_**        | **_`12`_** | **_`26`_** |
 
 ### **`Supported`** 🦩
-|                                                                                                                    |                                                                                                                      |                                                                                                                      | 
-| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| <img width=50 src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" alt="solidity"/> | <img width=50 src="https://pbs.twimg.com/profile_images/1876514615611289600/26ItYplZ_400x400.jpg" alt="anchor-solana-rust"/> | <img width=50 src="https://docs.circom.io/circom-logo-black.png" alt="circom"/> |
+|                                                                                                                    |                                                                                                                      |                                                                                                                      | |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |---------------- |
+| <img width=50 src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp_400x400.jpg" alt="solidity"/> | <img width=50 src="https://pbs.twimg.com/profile_images/1876514615611289600/26ItYplZ_400x400.jpg" alt="anchor-solana-rust"/> | <img width=50 src="https://docs.circom.io/circom-logo-black.png" alt="circom"/> | <img width=50 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.tqWc5lkYPSn_vPRmD6uy7gHaHa%3Fcb%3D12%26pid%3DApi&f=1&ipt=9c7f596ec8c17772ebc6218da588e9556117857158d42c3d25bc9f5aad886bb3&ipo=images" alt="sui"/> |
 
 <hr/>
 <hr/>
@@ -21,7 +21,7 @@
 
 <details><summary> See details👁️ </summary>
 
-- Working with [SigmaPrime](https://sigmaprime.io/): 10 reviews.
+- Working with [SigmaPrime](https://sigmaprime.io/): 12 reviews.
 > 📘 Note ℹ️: These reviews were the result of a team effort with other auditors at SigmaPrime.
 
 </details>
@@ -56,7 +56,7 @@
 
 | `code4arena`                                                                                         | `codeHawks`                                                                                          | `sherlock`                                                                                           | `solodit`                                                                                            | `cantina`                                                                                            |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| <img src="https://pbs.twimg.com/profile_images/1631113162262183936/IV_fsyQ3_400x400.png" width="60"> | <img src="https://pbs.twimg.com/profile_images/1806266423548735488/zWudaEmt_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1788980045425377280/3jRqgFQY_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1846898547645390848/XExySh0C_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1860741694431313921/COlEJmQe_400x400.jpg" width="60"> |
+| <img src="https://pbs.twimg.com/profile_images/1631113162262183936/IV_fsyQ3_400x400.png" width="60"> | <img src="https://pbs.twimg.com/profile_images/1806266423548735488/zWudaEmt_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1788980045425377280/3jRqgFQY_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1846898547645390848/XExySh0C_400x400.jpg" width="60"> | <img src="https://pbs.twimg.com/profile_images/1927362197451108352/rucusn-S_400x400.jpg" width="60"> |
 | **`TOP ~13%`** registered wardens (08/05/2024)                                                       | **`TOP 100`** auditors **`Nº98`** (06/03/2024)                                                       | **`Top ~10%`** Leaderboard (08/05/2024)                                                              | **`TOP 100`** auditors **`Nº58`** (27/05/2024)                                                       | **`TOP ~22%`** auditors' leaderboard (17/01/2025)                                                    |
 |                                                                                                      |
 | 4 contest                                                                                            | 12 contests                                                                                          | 7 contests                                                                                           |                                                                                                      | 3 contests                                                                                           |
